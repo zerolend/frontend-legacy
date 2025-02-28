@@ -1,0 +1,50 @@
+import { ProtocolAction } from '@aave/contract-helpers';
+import { Trans } from '@lingui/macro';
+import { Reward } from 'src/helpers/types';
+import { useTransactionHandler } from 'src/helpers/useTransactionHandler';
+import { useRootStore } from 'src/store/root';
+
+import { TxActionsWrapper } from '../TxActionsWrapper';
+
+export type ClaimRewardsActionsProps = {
+  isWrongNetwork: boolean;
+  blocked: boolean;
+  selectedReward: Reward;
+};
+
+export const TransferVestAction = ({
+  isWrongNetwork,
+  blocked,
+  selectedReward,
+}: ClaimRewardsActionsProps) => {
+  //ToDo: change the whole code to handle vest staking;
+
+  const claimRewards = useRootStore((state) => state.claimRewards);
+
+  const { action, loadingTxns, mainTxState, requiresApproval } = useTransactionHandler({
+    protocolAction: ProtocolAction.claimRewards,
+    eventTxInfo: {
+      assetName: selectedReward.symbol,
+      amount: selectedReward.balance,
+    },
+    tryPermit: false,
+    handleGetTxns: async () => {
+      return claimRewards({ isWrongNetwork, blocked, selectedReward });
+    },
+    skip: Object.keys(selectedReward).length === 0 || blocked,
+    deps: [selectedReward],
+  });
+
+  return (
+    <TxActionsWrapper
+      requiresApproval={requiresApproval}
+      blocked={blocked}
+      preparingTransactions={loadingTxns}
+      mainTxState={mainTxState}
+      handleAction={action}
+      actionText={<Trans>Transfer</Trans>}
+      actionInProgressText={<Trans>Claiming</Trans>}
+      isWrongNetwork={isWrongNetwork}
+    />
+  );
+};

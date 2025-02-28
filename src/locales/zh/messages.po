@@ -1,0 +1,3271 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2023-09-25 19:26+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: zh\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: src/layouts/AppMiniBanner.tsx
+#: src/layouts/AppMiniBanner.tsx
+#: src/layouts/AppMiniBanner.tsx
+msgid "$ZERO PRE-MINE IS LIVE"
+msgstr "零元预开采已上线"
+
+#: src/components/TopInfoPanel/TopInfoPanel.tsx
+msgid "$ZERO pre-mining is now live!"
+msgstr "$ZERO 预开采现已上线！"
+
+#: src/modules/history/HistoryWrapper.tsx
+#: src/modules/history/HistoryWrapperMobile.tsx
+msgid ".CSV"
+msgstr ".CSV"
+
+#: src/modules/history/HistoryWrapper.tsx
+#: src/modules/history/HistoryWrapperMobile.tsx
+msgid ".JSON"
+msgstr ".JSON"
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+msgid "<0><1><2/></1>Add <3/> stkZERO</0> to borrow at <4/> (max discount)"
+msgstr ""
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+msgid "<0><1><2/></1>Add stkZERO</0> to see borrow rate with discount"
+msgstr ""
+
+#: src/components/Warnings/AMPLWarning.tsx
+msgid "<0>Ampleforth</0> is a rebasing asset. Visit the <1>documentation</1> to learn more."
+msgstr "<0>Ampleforth</0> 是一种重新基准化资产。请访问<1>文档</1>以了解更多信息。"
+
+#: src/components/transactions/Borrow/ParameterChangewarning.tsx
+msgid "<0>Attention:</0> Parameter changes via governance can alter your account health factor and risk of liquidation."
+msgstr "<0>注意：</0>通过治理更改参数会改变您的账户健康系数和清算风险。"
+
+#: src/modules/dashboard/lists/SlippageList.tsx
+msgid "<0>Slippage tolerance </0><1>{selectedSlippage}% </1><2>{0}</2>"
+msgstr "<0>滑点容忍度 </0><1>{selectedSlippage}% </1><2>{0}</2>"
+
+#: src/modules/markets/MarketsTopPanel.tsx
+msgid "A powerful decentralized lending protocol built on zkSync. Lend/Borrow with high capital efficiency and low interest fees"
+msgstr "基于 zkSync 的强大去中心化借贷协议。以高资本效率和低利息费用进行借贷"
+
+#: src/components/incentives/IncentivesTooltipContent.tsx
+#: src/components/incentives/IncentivesTooltipContent.tsx
+msgid "APR"
+msgstr "年利率"
+
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsList.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsList.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsListMobileItem.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/GhoBorrowedPositionsListItem.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsList.tsx
+#: src/modules/history/actions/BorrowRateModeBlock.tsx
+#: src/modules/history/actions/BorrowRateModeBlock.tsx
+#: src/modules/markets/Farms/FarmsList.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "APY"
+msgstr "年收益率"
+
+#: src/modules/migration/MigrationList.tsx
+#: src/modules/migration/MigrationList.tsx
+#: src/modules/migration/MigrationListMobileItem.tsx
+msgid "APY change"
+msgstr "年收益率 变更"
+
+#: src/components/transactions/DebtSwitch/DebtSwitchModalDetails.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsList.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsListMobileItem.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/GhoBorrowedPositionsListItem.tsx
+msgid "APY type"
+msgstr "年收益率 类型"
+
+#: src/modules/migration/MigrationList.tsx
+#: src/modules/migration/MigrationListMobileItem.tsx
+msgid "APY type change"
+msgstr "年收益率 类型变更"
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+msgid "APY with discount applied"
+msgstr "应用折扣后的 年收益率 "
+
+#: src/components/transactions/Borrow/GhoBorrowModalContent.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/GhoBorrowAssetsListItem.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/GhoBorrowAssetsListItem.tsx
+#: src/modules/reserve-overview/Gho/GhoBorrowInfo.tsx
+#: src/modules/reserve-overview/Gho/GhoBorrowInfo.tsx
+msgid "APY, fixed rate"
+msgstr "固定利率 年收益率 "
+
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsList.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsListMobileItem.tsx
+#: src/modules/dashboard/lists/ListItemAPYButton.tsx
+#: src/modules/reserve-overview/BorrowInfo.tsx
+msgid "APY, stable"
+msgstr "稳定利率 年收益率 "
+
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsList.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsListMobileItem.tsx
+#: src/modules/dashboard/lists/ListItemAPYButton.tsx
+#: src/modules/reserve-overview/BorrowInfo.tsx
+msgid "APY, variable"
+msgstr "可变利率 年收益率 "
+
+#: src/ui-config/errorMapping.tsx
+msgid "AToken supply is not zero"
+msgstr "AToken 供应不为零"
+
+#: src/modules/reserve-overview/Gho/GhoReserveConfiguration.tsx
+msgid "About ONEZ"
+msgstr "关于 ONEZ"
+
+#: src/layouts/WalletWidget.tsx
+msgid "Account"
+msgstr "账户"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Action cannot be performed because the reserve is frozen"
+msgstr "由于储备金被冻结，无法执行操作"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Action cannot be performed because the reserve is paused"
+msgstr "由于储备金暂停，无法执行操作"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Action requires an active reserve"
+msgstr "操作需要一个活跃的储备金"
+
+#: src/components/transactions/StakeCooldown/StakeCooldownActions.tsx
+#: src/components/transactions/StakeCooldown/StakeCooldownActions.tsx
+msgid "Activate Cooldown"
+msgstr "激活冷却时间"
+
+#: src/modules/reserve-overview/ReserveTopDetailsWrapper.tsx
+msgid "Add Liquidity"
+msgstr "补充流动资金 "
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+msgid "Add stkZERO to see borrow APY with the discount"
+msgstr ""
+
+#: src/components/transactions/FlowCommons/Success.tsx
+msgid "Add to wallet"
+msgstr "添加到钱包"
+
+#: src/components/transactions/FlowCommons/Success.tsx
+msgid "Add {0} to wallet to track your balance."
+msgstr "添加 {0} 到钱包以跟踪您的余额。"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Address is not a contract"
+msgstr "地址不是一个合同"
+
+#: src/modules/governance/proposal/VotersListContainer.tsx
+msgid "Addresses"
+msgstr "地址"
+
+#: src/modules/governance/proposal/VotersListModal.tsx
+#: src/modules/governance/proposal/VotersListModal.tsx
+msgid "Addresses ({0})"
+msgstr "地址（{0}）"
+
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+msgid "All Assets"
+msgstr "所有资产"
+
+#: src/components/transactions/Borrow/GhoBorrowSuccessView.tsx
+#: src/components/transactions/FlowCommons/Success.tsx
+msgid "All done!"
+msgstr "所有的都完成！"
+
+#: src/modules/governance/ProposalListHeader.tsx
+#: src/modules/governance/ProposalListHeader.tsx
+msgid "All proposals"
+msgstr "所有提案"
+
+#: src/modules/history/HistoryFilterMenu.tsx
+#: src/modules/history/HistoryFilterMenu.tsx
+msgid "All transactions"
+msgstr "所有交易"
+
+#: src/components/transactions/FlowCommons/PermissionView.tsx
+msgid "Allowance required action"
+msgstr "需要批准的操作"
+
+#: src/components/infoTooltips/CollateralSwitchTooltip.tsx
+msgid "Allows you to decide whether to use a supplied asset as collateral. An asset used as collateral will affect your borrowing power and health factor."
+msgstr "允许您决定是否使用提供的资产作为抵押品。作为抵押品使用的资产将影响您的借款能力和健康系数。"
+
+#: src/components/infoTooltips/APYTypeTooltip.tsx
+msgid "Allows you to switch between <0>variable</0> and <1>stable</1> interest rates, where variable rate can increase and decrease depending on the amount of liquidity in the reserve, and stable rate will stay the same for the duration of your loan."
+msgstr "允许您在<0>变动</0>和 <1>稳定</1> 两种利率之间切换，其中变动利率可以根据储备金中的流动性量的多少而增加和减少，而稳定利率将在贷款期内保持不变。"
+
+#: src/components/transactions/AssetInput.tsx
+#: src/components/transactions/Faucet/CaptchaFaucetModalContent.tsx
+#: src/components/transactions/Faucet/FaucetModalContent.tsx
+#: src/modules/reserve-overview/Gho/GhoPieChartContainer.tsx
+msgid "Amount"
+msgstr "数量"
+
+#: src/components/transactions/StakeRewardClaim/StakeRewardClaimModalContent.tsx
+#: src/components/transactions/StakeRewardClaimRestake/StakeRewardClaimRestakeModalContent.tsx
+msgid "Amount claimable"
+msgstr "可索赔的金额"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "Amount in cooldown"
+msgstr "冷却中的金额"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Amount must be greater than 0"
+msgstr "金额必须大于 0"
+
+#: src/components/transactions/StakeCooldown/StakeCooldownModalContent.tsx
+msgid "Amount to unstake"
+msgstr "解除质押的数量"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "An error has occurred fetching the proposal metadata from IPFS."
+msgstr "从 IPFS 获取提案元数据时发生错误。"
+
+#: src/components/transactions/TxActionsWrapper.tsx
+msgid "Approve Confirmed"
+msgstr "已确认批准"
+
+#: src/components/transactions/FlowCommons/RightHelperText.tsx
+msgid "Approve with"
+msgstr "使用以下方式批准"
+
+#: src/components/transactions/TxActionsWrapper.tsx
+msgid "Approve {symbol} to continue"
+msgstr "批准 {symbol} 以继续"
+
+#: src/components/transactions/TxActionsWrapper.tsx
+msgid "Approving {symbol}..."
+msgstr "正在批准 {symbol}…"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Array parameters that should be equal length are not"
+msgstr "应该具有相等长度的数组参数"
+
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+msgid "As a liquidity provider, you will get roles (Shrimp/Shark/Whale) in our discord that give you exclusive access to private channels. Visit <0>Guild.xyz</0> to claim these roles."
+msgstr "作为流动资金提供者，您将在我们的 discord 中获得角色（虾/鲨鱼/鲸鱼），这些角色可让您独享私人频道。请访问 <0>Guild.xyz</0> 申请这些角色。"
+
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsList.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsList.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+#: src/modules/faucet/FaucetAssetsList.tsx
+#: src/modules/markets/MarketAssetsList.tsx
+msgid "Asset"
+msgstr "资产"
+
+#: src/components/isolationMode/IsolatedBadge.tsx
+msgid "Asset can be only used as collateral in isolation mode with limited borrowing power. To enter isolation mode, disable all other collateral."
+msgstr "资产只能在孤立模式下用作抵押品，借款能力有限。要进入孤立模式，请禁用所有其他抵押品。"
+
+#: src/components/infoTooltips/MigrationDisabledTooltip.tsx
+msgid "Asset cannot be migrated because you have isolated collateral in {marketName} v3 Market which limits borrowable assets. You can manage your collateral in <0>{marketName} V3 Dashboard</0>"
+msgstr "无法迁移资产，因为您在 {marketName} v3 市场上拥有限制可借资产的孤立抵押品。您可以在 <0>{marketName} V3 仪表盘</0> 中管理您的抵押品。"
+
+#: src/components/infoTooltips/MigrationDisabledTooltip.tsx
+msgid "Asset cannot be migrated due to insufficient liquidity or borrow cap limitation in {marketName} v3 market."
+msgstr "由于 {marketName} v3 市场的流动性不足或借款上限限制，资产无法迁移。"
+
+#: src/components/infoTooltips/MigrationDisabledTooltip.tsx
+msgid "Asset cannot be migrated due to supply cap restriction in {marketName} v3 market."
+msgstr "由于 {marketName} v3 市场的供应上限限制，资产无法迁移。"
+
+#: src/components/infoTooltips/MigrationDisabledTooltip.tsx
+msgid "Asset cannot be migrated to {marketName} V3 Market due to E-mode restrictions. You can disable or manage E-mode categories in your <0>V3 Dashboard</0>"
+msgstr "由于 E 模式的限制，资产无法迁移到 {marketName} V3 市场。您可以在您的 <0>V3 仪表盘</0> 中禁用或管理 E 模式类别。"
+
+#: src/components/infoTooltips/MigrationDisabledTooltip.tsx
+msgid "Asset cannot be migrated to {marketName} v3 Market since collateral asset will enable isolation mode."
+msgstr "资产无法迁移到 {marketName} v3 市场，因为抵押品资产将启用孤立模式。"
+
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "Asset cannot be used as collateral."
+msgstr "不能用作抵押品的资产"
+
+#: src/components/transactions/Emode/EmodeSelect.tsx
+#: src/modules/dashboard/DashboardEModeButton.tsx
+msgid "Asset category"
+msgstr "资产类别"
+
+#: src/components/infoTooltips/MigrationDisabledTooltip.tsx
+msgid "Asset is frozen in {marketName} v3 market, hence this position cannot be migrated."
+msgstr "资产在 {marketName} v3 市场被冻结，因此无法迁移此持仓。"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Asset is not borrowable in isolation mode"
+msgstr "孤立模式下不可借用资产"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Asset is not listed"
+msgstr "资产未列出"
+
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "Asset supply is limited to a certain amount to reduce protocol exposure to the asset and to help manage risks involved."
+msgstr "资产供应受到限制，以减少协议对该资产的风险敞口并帮助管理相关风险。"
+
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsList.tsx
+#: src/modules/migration/MigrationList.tsx
+msgid "Assets"
+msgstr "资产"
+
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsList.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsList.tsx
+msgid "Assets to borrow"
+msgstr "可借用的资产 "
+
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsList.tsx
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsList.tsx
+msgid "Assets to supply"
+msgstr "可供应的资产"
+
+#: src/components/transactions/CollateralChange/CollateralChangeModalContent.tsx
+#: src/components/transactions/Repay/CollateralRepayModalContent.tsx
+#: src/components/transactions/Swap/SwapModalContent.tsx
+#: src/components/transactions/Withdraw/WithdrawModalContent.tsx
+msgid "Assets with zero LTV ({assetsBlockingWithdraw}) must be withdrawn or disabled as collateral to perform this action"
+msgstr "零贷款价值比率 (LTV) 的资产（{assetsBlockingWithdraw}）必须撤回或停用作为抵押品，以执行此操作。"
+
+#: src/modules/reserve-overview/Gho/GhoPieChartContainer.tsx
+msgid "At a discount"
+msgstr "以折扣价"
+
+#: src/ui-config/menu-items/index.tsx
+msgid "Audits"
+msgstr "审计"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Author"
+msgstr "作者"
+
+#: src/components/transactions/Borrow/BorrowModalContent.tsx
+#: src/components/transactions/Borrow/GhoBorrowModalContent.tsx
+#: src/components/transactions/Withdraw/WithdrawModalContent.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsList.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/GhoBorrowAssetsListItem.tsx
+msgid "Available"
+msgstr "可用"
+
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+msgid "Available assets"
+msgstr "可用资产"
+
+#: src/modules/reserve-overview/ReserveTopDetails.tsx
+msgid "Available liquidity"
+msgstr "可用流动性"
+
+#: src/components/ChainAvailabilityText.tsx
+msgid "Available on"
+msgstr "可用于"
+
+#: src/modules/dashboard/DashboardTopPanel.tsx
+msgid "Available rewards"
+msgstr "可用奖励"
+
+#: src/components/caps/CapsHint.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsListMobileItem.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/GhoBorrowAssetsListItem.tsx
+#: src/modules/reserve-overview/Gho/GhoReserveTopDetails.tsx
+#: src/modules/reserve-overview/ReserveActions.tsx
+msgid "Available to borrow"
+msgstr "可供借出"
+
+#: src/components/caps/CapsHint.tsx
+#: src/modules/reserve-overview/ReserveActions.tsx
+msgid "Available to supply"
+msgstr "可供应"
+
+#: pages/404.page.tsx
+msgid "Back to Dashboard"
+msgstr "返回仪表板"
+
+#: src/components/transactions/AssetInput.tsx
+#: src/components/transactions/ClaimRewards/ClaimRewardsModalContent.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsList.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+msgid "Balance"
+msgstr "余额"
+
+#: src/components/transactions/GovDelegation/GovDelegationModalContent.tsx
+msgid "Balance to revoke"
+msgstr "撤销余额"
+
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsList.tsx
+msgid "Be careful - You are very close to liquidation. Consider depositing more collateral or paying down some of your borrowed positions"
+msgstr "请注意 - 您非常接近清算。考虑存入更多抵押品或还清部分借款头寸。"
+
+#: src/modules/migration/MigrationBottomPanel.tsx
+msgid "Be mindful of the network congestion and gas prices."
+msgstr "请注意网络拥堵和矿工费价格。"
+
+#: src/modules/reserve-overview/ReserveActions.tsx
+msgid "Because this asset is paused, no actions can be taken until further notice"
+msgstr "由于此资产已暂停，暂时无法执行任何操作。"
+
+#: src/components/transactions/Warnings/SNXWarning.tsx
+msgid "Before supplying"
+msgstr "供应之前"
+
+#: src/components/AddressBlockedModal.tsx
+msgid "Blocked Address"
+msgstr "已被拦截的地址"
+
+#: pages/dashboard.page.tsx
+#: src/components/transactions/Borrow/BorrowModal.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsListItem.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsListMobileItem.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsListItem.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsListMobileItem.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/GhoBorrowedPositionsListItem.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/GhoBorrowedPositionsListItem.tsx
+#: src/modules/history/HistoryFilterMenu.tsx
+#: src/modules/history/actions/ActionDetails.tsx
+#: src/modules/reserve-overview/ReserveActions.tsx
+msgid "Borrow"
+msgstr "借款"
+
+#: src/components/transactions/Borrow/BorrowModalContent.tsx
+#: src/components/transactions/Borrow/GhoBorrowModalContent.tsx
+msgid "Borrow APY rate"
+msgstr "借款年收益率 "
+
+#: src/modules/markets/Gho/GhoBanner.tsx
+msgid "Borrow APY, fixed rate"
+msgstr "借款固定利率 年收益率 "
+
+#: src/modules/markets/MarketAssetsList.tsx
+#: src/modules/markets/MarketAssetsListMobileItem.tsx
+msgid "Borrow APY, stable"
+msgstr "借款稳定利率 年收益率 "
+
+#: src/components/transactions/DebtSwitch/DebtSwitchModalContent.tsx
+#: src/modules/markets/MarketAssetsList.tsx
+#: src/modules/markets/MarketAssetsListMobileItem.tsx
+msgid "Borrow APY, variable"
+msgstr "借款可变利率 年收益率 "
+
+#: src/modules/reserve-overview/graphs/InterestRateModelGraph.tsx
+msgid "Borrow amount to reach {0}% utilization"
+msgstr "借款金额达到 {0}% 利用率所需的金额"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Borrow and repay in same block is not allowed"
+msgstr "在同一个区块内进行借款和还款是不允许的"
+
+#: src/components/transactions/DebtSwitch/DebtSwitchModalDetails.tsx
+msgid "Borrow apy"
+msgstr "借款 年收益率 "
+
+#: src/components/transactions/DebtSwitch/DebtSwitchModalContent.tsx
+#: src/components/transactions/Repay/CollateralRepayModalContent.tsx
+#: src/components/transactions/Repay/CollateralRepayModalContent.tsx
+#: src/modules/reserve-overview/Gho/GhoPieChartContainer.tsx
+msgid "Borrow balance"
+msgstr "借款余额"
+
+#: src/components/transactions/Repay/CollateralRepayModalContent.tsx
+msgid "Borrow balance after repay"
+msgstr "还款后的借款余额"
+
+#: src/components/transactions/DebtSwitch/DebtSwitchModalDetails.tsx
+msgid "Borrow balance after switch"
+msgstr "切换后的借款余额"
+
+#: src/modules/reserve-overview/BorrowInfo.tsx
+msgid "Borrow cap"
+msgstr "借款上限"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Borrow cap is exceeded"
+msgstr "借款上限已超出"
+
+#: src/modules/reserve-overview/Gho/GhoReserveConfiguration.tsx
+msgid "Borrow info"
+msgstr "借款信息"
+
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsList.tsx
+msgid "Borrow power used"
+msgstr "已使用的借款额度"
+
+#: src/modules/history/actions/ActionDetails.tsx
+msgid "Borrow rate change"
+msgstr "借款利率变更"
+
+#: src/components/transactions/Borrow/BorrowActions.tsx
+msgid "Borrow {symbol}"
+msgstr "借款 {symbol}"
+
+#: src/components/transactions/Borrow/BorrowModalContent.tsx
+msgid "Borrowed"
+msgstr "已借款"
+
+#: src/components/transactions/DebtSwitch/DebtSwitchModalContent.tsx
+msgid "Borrowed asset amount"
+msgstr "已借资产金额"
+
+#: src/components/transactions/Borrow/BorrowModalContent.tsx
+#: src/components/transactions/Borrow/GhoBorrowModalContent.tsx
+msgid "Borrowing is currently unavailable for {0}."
+msgstr "对于 {0} 目前不提供借款。"
+
+#: src/components/Warnings/BorrowDisabledWarning.tsx
+msgid "Borrowing is disabled due to an ZeroLend community decision. <0>More details</0>"
+msgstr "由于 ZeroLend 社区的决定，借款已被禁用。<0>更多详情</0"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Borrowing is not enabled"
+msgstr "未启用借款"
+
+#: src/hooks/useReserveActionState.tsx
+msgid "Borrowing is unavailable because you’re using Isolation mode. To manage Isolation mode visit your <0>Dashboard</0>."
+msgstr "借用不可用，因为您正在使用隔离模式。要管理隔离模式，请访问<0>控制面板</0>。"
+
+#: src/hooks/useReserveActionState.tsx
+msgid "Borrowing is unavailable because you’ve enabled Efficiency Mode (E-Mode) and Isolation mode. To manage E-Mode and Isolation mode visit your <0>Dashboard</0>."
+msgstr "借阅不可用是因为您启用了效率模式 (E-Mode) 和隔离模式。要管理 E 模式和隔离模式，请访问<0>控制面板</0>。"
+
+#: src/hooks/useReserveActionState.tsx
+msgid "Borrowing is unavailable because you’ve enabled Efficiency Mode (E-Mode) for {0} category. To manage E-Mode categories visit your <0>Dashboard</0>."
+msgstr "由于您已为 {0} 类别启用了效率模式 (E-Mode)，因此借阅不可用。要管理 E-Mode 类别，请访问<0>控制面板</0>。"
+
+#: src/modules/reserve-overview/BorrowInfo.tsx
+msgid "Borrowing of this asset is limited to a certain amount to minimize liquidity pool insolvency."
+msgstr "对此资产的借款受限以减少流动性池的不足。"
+
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsList.tsx
+msgid "Borrowing power and assets are limited due to Isolation mode."
+msgstr "由于隔离模式，借款能力和资产受到限制。"
+
+#: src/components/transactions/Borrow/BorrowAmountWarning.tsx
+msgid "Borrowing this amount will reduce your health factor and increase risk of liquidation."
+msgstr "借款此金额将降低您的健康系数并增加清算风险。"
+
+#: src/components/transactions/Borrow/BorrowActions.tsx
+msgid "Borrowing {symbol}"
+msgstr "借款{symbol}"
+
+#: src/components/transactions/GovDelegation/DelegationTypeSelector.tsx
+msgid "Both"
+msgstr "两者"
+
+#: src/ui-config/menu-items/index.tsx
+msgid "Bridge"
+msgstr "桥"
+
+#: src/modules/staking/BuyWithFiatModal.tsx
+msgid "Buy Crypto with Fiat"
+msgstr "用法定货币购买加密货币"
+
+#: src/modules/staking/BuyWithFiat.tsx
+msgid "Buy {cryptoSymbol} with Fiat"
+msgstr "用法定货币购买{cryptoSymbol}"
+
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsList.tsx
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsListMobileItem.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "Can be collateral"
+msgstr "可作为抵押物"
+
+#: src/modules/governance/FormattedProposalTime.tsx
+msgid "Can be executed"
+msgstr "可执行"
+
+#: src/components/TitleWithSearchBar.tsx
+#: src/modules/history/HistoryWrapperMobile.tsx
+msgid "Cancel"
+msgstr "取消"
+
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+msgid "Cannot disable E-Mode"
+msgstr "无法禁用 E 模式"
+
+#: src/layouts/components/LanguageSwitcher.tsx
+msgid "Chinese"
+msgstr "中文 "
+
+#: src/components/transactions/GovDelegation/GovDelegationModalContent.tsx
+msgid "Choose how much voting/proposition power to give to someone else by delegating some of your ZERO or stkZERO balance. Your tokens will remain in your account, but your delegate will be able to vote or propose on your behalf. If your stkZERO balance changes, your delegate's voting/proposition power will be automatically adjusted."
+msgstr ""
+
+#: src/modules/staking/BuyWithFiatModal.tsx
+msgid "Choose one of the on-ramp services"
+msgstr "选择其中一个上坡服务"
+
+#: src/modules/dashboard/DashboardTopPanel.tsx
+#: src/modules/staking/StakingPanel.tsx
+msgid "Claim"
+msgstr "索赔"
+
+#: src/components/transactions/ClaimRewards/ClaimRewardsActions.tsx
+msgid "Claim all"
+msgstr "索赔全部"
+
+#: src/components/transactions/ClaimRewards/RewardsSelect.tsx
+#: src/components/transactions/ClaimRewards/RewardsSelect.tsx
+msgid "Claim all rewards"
+msgstr "索赔所有奖励"
+
+#: src/components/transactions/ClaimRewards/ClaimRewardsActions.tsx
+msgid "Claim {0}"
+msgstr "索赔 {0}"
+
+#: src/components/transactions/StakeRewardClaim/StakeRewardClaimActions.tsx
+msgid "Claim {symbol}"
+msgstr "索赔 {symbol}"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "Claimable ZERO"
+msgstr ""
+
+#: src/components/transactions/ClaimRewards/ClaimRewardsModalContent.tsx
+#: src/components/transactions/StakeRewardClaim/StakeRewardClaimModalContent.tsx
+msgid "Claimed"
+msgstr "已索赔"
+
+#: src/components/transactions/ClaimRewards/ClaimRewardsActions.tsx
+msgid "Claiming"
+msgstr "索赔中"
+
+#: src/components/transactions/StakeRewardClaim/StakeRewardClaimActions.tsx
+msgid "Claiming {symbol}"
+msgstr "索赔 {symbol} 中"
+
+#: src/components/transactions/FlowCommons/Error.tsx
+#: src/components/transactions/FlowCommons/PermissionView.tsx
+msgid "Close"
+msgstr "关闭"
+
+#: src/components/transactions/Repay/RepayTypeSelector.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+msgid "Collateral"
+msgstr "抵押"
+
+#: src/components/transactions/Repay/CollateralRepayModalContent.tsx
+msgid "Collateral balance after repay"
+msgstr "还款后的抵押余额"
+
+#: src/modules/history/HistoryFilterMenu.tsx
+#: src/modules/migration/MigrationList.tsx
+#: src/modules/migration/MigrationListMobileItem.tsx
+msgid "Collateral change"
+msgstr "抵押变更"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Collateral is (mostly) the same currency that is being borrowed"
+msgstr "抵押物(通常)是被借入的同一种货币"
+
+#: src/components/transactions/Repay/CollateralRepayModalContent.tsx
+msgid "Collateral to repay with"
+msgstr "用于还款的抵押品"
+
+#: src/modules/history/actions/ActionDetails.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "Collateral usage"
+msgstr "抵押品使用"
+
+#: src/hooks/useReserveActionState.tsx
+msgid "Collateral usage is limited because of Isolation mode."
+msgstr "由于隔离模式，抵押品使用受到限制。"
+
+#: src/components/isolationMode/IsolatedBadge.tsx
+msgid "Collateral usage is limited because of isolation mode."
+msgstr "由于隔离模式，抵押品使用受到限制。"
+
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsList.tsx
+msgid "Collateral usage is limited because of isolation mode. <0>Learn More</0>"
+msgstr "由于隔离模式，抵押品使用受到限制。<0>了解更多<0>"
+
+#: src/components/transactions/FlowCommons/TxModalDetails.tsx
+#: src/components/transactions/Swap/SwapModalDetails.tsx
+#: src/modules/history/actions/ActionDetails.tsx
+msgid "Collateralization"
+msgstr "抵押率"
+
+#: src/modules/reserve-overview/ReserveFactorOverview.tsx
+msgid "Collector Contract"
+msgstr "收藏者合同"
+
+#: src/modules/reserve-overview/BorrowInfo.tsx
+msgid "Collector Info"
+msgstr "收藏者信息"
+
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+msgid "Congrats! You now have special access to our Discord!"
+msgstr "恭喜！您现在可以特别访问我们的 Discord！"
+
+#: src/components/WalletConnection/ConnectWalletButton.tsx
+#: src/layouts/WalletWidget.tsx
+msgid "Connect wallet"
+msgstr "连接钱包"
+
+#: src/modules/rewards/Vesting.tsx
+msgid "Convert your $earlyZERO into $ZERO and $ZKS"
+msgstr "将 $earlyZERO 转换为 $ZERO 和 $ZKS"
+
+#: src/components/transactions/StakeCooldown/StakeCooldownModalContent.tsx
+#: src/modules/staking/StakingPanel.tsx
+msgid "Cooldown period"
+msgstr "冷却期"
+
+#: src/components/Warnings/CooldownWarning.tsx
+msgid "Cooldown period warning"
+msgstr "冷却期警告"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "Cooldown time left"
+msgstr "剩余冷却时间"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "Cooldown to unstake"
+msgstr "冷却以解除抵押"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "Cooling down..."
+msgstr "正在冷却中..."
+
+#: src/layouts/WalletWidget.tsx
+msgid "Copy address"
+msgstr "复制地址"
+
+#: pages/500.page.tsx
+msgid "Copy error message"
+msgstr "复制错误消息"
+
+#: src/components/transactions/FlowCommons/Error.tsx
+msgid "Copy error text"
+msgstr "复制错误文本"
+
+#: src/modules/history/actions/ActionDetails.tsx
+msgid "Covered debt"
+msgstr "已覆盖的债务"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Created"
+msgstr "已创建"
+
+#: src/modules/dashboard/LiquidationRiskParametresModal/LiquidationRiskParametresModal.tsx
+msgid "Current LTV"
+msgstr "当前贷款价值比"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Current differential"
+msgstr "当前差异"
+
+#: src/modules/migration/MigrationListMobileItem.tsx
+msgid "Current v2 Balance"
+msgstr "当前 v2 余额"
+
+#: src/modules/migration/MigrationList.tsx
+#: src/modules/migration/MigrationList.tsx
+msgid "Current v2 balance"
+msgstr "当前 v2 余额"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Current votes"
+msgstr "当前投票"
+
+#: src/layouts/components/DarkModeSwitcher.tsx
+msgid "Dark mode"
+msgstr "暗模式"
+
+#: src/ui-config/menu-items/index.tsx
+msgid "Dashboard"
+msgstr "仪表板"
+
+#: src/modules/dashboard/DashboardTopPanel.tsx
+msgid "Dashboard 🏦"
+msgstr "仪表盘"
+
+#: src/modules/reserve-overview/graphs/ApyGraphContainer.tsx
+msgid "Data couldn't be fetched, please reload graph."
+msgstr "无法获取数据，请重新加载图表。"
+
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsList.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsListMobileItem.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/GhoBorrowedPositionsListItem.tsx
+msgid "Debt"
+msgstr "债务"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Debt ceiling is exceeded"
+msgstr "债务上限已超过"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Debt ceiling is not zero"
+msgstr "债务上限不为零"
+
+#: src/components/caps/DebtCeilingStatus.tsx
+msgid "Debt ceiling limits the amount possible to borrow against this asset by protocol users. Debt ceiling is specific to assets in isolation mode and is denoted in USD."
+msgstr "债务上限限制了协议用户可以根据此资产借入的金额。债务上限特定于孤立模式下的资产，并以美元表示。"
+
+#: src/modules/governance/DelegatedInfoPanel.tsx
+msgid "Delegated power"
+msgstr "委托权力"
+
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsListItem.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsListMobileItem.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/GhoBorrowAssetsListItem.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/GhoBorrowAssetsListItem.tsx
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsListItem.tsx
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsListMobileItem.tsx
+#: src/modules/markets/Farms/FarmsListItem.tsx
+#: src/modules/markets/MarketAssetsListItem.tsx
+msgid "Details"
+msgstr "详细信息"
+
+#: src/ui-config/menu-items/index.tsx
+msgid "Developers"
+msgstr "开发者"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+#: src/modules/governance/ProposalListItem.tsx
+msgid "Differential"
+msgstr "差异"
+
+#: src/components/transactions/Emode/EmodeActions.tsx
+#: src/modules/dashboard/DashboardEModeButton.tsx
+msgid "Disable E-Mode"
+msgstr "禁用 E 模式"
+
+#: src/layouts/AppHeader.tsx
+msgid "Disable testnet"
+msgstr "禁用测试网络"
+
+#: src/components/transactions/CollateralChange/CollateralChangeActions.tsx
+msgid "Disable {symbol} as collateral"
+msgstr "禁用 {symbol} 作为抵押品"
+
+#: src/components/ReserveSubheader.tsx
+#: src/components/transactions/FlowCommons/TxModalDetails.tsx
+msgid "Disabled"
+msgstr "已禁用"
+
+#: src/components/transactions/Emode/EmodeActions.tsx
+msgid "Disabling E-Mode"
+msgstr "禁用 E 模式"
+
+#: src/components/transactions/CollateralChange/CollateralChangeModalContent.tsx
+msgid "Disabling this asset as collateral affects your borrowing power and Health Factor."
+msgstr "将此资产禁用为抵押品会影响您的借款能力和健康因子。"
+
+#: src/components/AddressBlockedModal.tsx
+msgid "Disconnect Wallet"
+msgstr "断开钱包连接"
+
+#: src/layouts/AppFooter.tsx
+msgid "Discord"
+msgstr "不和 "
+
+#: pages/500.page.tsx
+msgid "Discord channel"
+msgstr "Discord 频道"
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+msgid "Discount"
+msgstr "折扣"
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+msgid "Discount model parameters"
+msgstr "折扣模型参数"
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+msgid "Discount parameters are decided by the ZeroLend community and may be changed over time. Check Governance for updates and vote to participate. <0>Learn more</0>"
+msgstr "折扣参数由 ZeroLend 社区决定，并可能随时间而改变。请查看治理更新并投票参与。<0>了解更多</0>。"
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+msgid "Discountable amount"
+msgstr "可折扣金额"
+
+#: src/layouts/AppFooter.tsx
+msgid "Docs"
+msgstr "文档"
+
+#: src/ui-config/menu-items/index.tsx
+msgid "Documentation"
+msgstr "文档"
+
+#: src/components/Warnings/StETHCollateralWarning.tsx
+msgid "Due to internal stETH mechanics required for rebasing support, it is not possible to perform a collateral switch where stETH is the source token."
+msgstr "由于内部 stETH 机制需要重新平衡支持，因此不可能执行以 stETH 为源代币的抵押切换。"
+
+#: src/components/transactions/Warnings/MarketWarning.tsx
+msgid "Due to the Horizon bridge exploit, certain assets on the Harmony network are not at parity with Ethereum, which affects the ZeroLend V3 Harmony market."
+msgstr "由于地平线桥接漏洞，和谐网络上的某些资产与以太坊不平等，这影响了 ZeroLend V3 和谐市场。"
+
+#: src/modules/dashboard/DashboardEModeButton.tsx
+msgid "E-Mode"
+msgstr "E-Mode"
+
+#: src/modules/reserve-overview/ReserveEModePanel.tsx
+msgid "E-Mode Category"
+msgstr "E-Mode类别"
+
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+msgid "E-Mode category"
+msgstr "E-Mode类别"
+
+#: src/modules/dashboard/DashboardEModeButton.tsx
+msgid "E-Mode increases your LTV for a selected category of assets up to 97%. <0>Learn more</0>"
+msgstr "E-Mode可以将您选择的资产类别的贷款价值提高到97%。<0>了解更多</0>"
+
+#: src/components/infoTooltips/EModeTooltip.tsx
+msgid "E-Mode increases your LTV for a selected category of assets up to<0/>. <1>Learn more</1>"
+msgstr "E-Mode可以将您选择的资产类别的贷款价值提高到<0/>。<1>了解更多</1>"
+
+#: src/modules/reserve-overview/ReserveEModePanel.tsx
+msgid "E-Mode increases your LTV for a selected category of assets, meaning that when E-mode is enabled, you will have higher borrowing power over assets of the same E-mode category which are defined by ZeroLend Governance. You can enter E-Mode from your <0>Dashboard</0>. To learn more about E-Mode and applied restrictions in <1>FAQ</1> or <2>ZeroLend V3 Technical Paper</2>."
+msgstr "E-Mode 可提高您所选资产类别的 LTV，这意味着启用 E-Mode 后，您将对 ZeroLend Governance 所定义的相同 E-Mode 类别的资产拥有更高的借贷能力。您可以从<0>控制面板</0>进入 E-模式。欲了解更多有关 E-模式和应用限制的信息，请参阅<1>常见问题</1>或<2>ZeroLend V3 技术文件</2>。"
+
+#: src/modules/reserve-overview/Gho/GhoInterestRateGraph.tsx
+msgid "Effective interest rate"
+msgstr "有效利率"
+
+#: src/modules/dashboard/DashboardEModeButton.tsx
+msgid "Efficiency mode (E-Mode)"
+msgstr "效率模式（E-Mode）"
+
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+msgid "Emode"
+msgstr "Emode"
+
+#: src/components/transactions/Emode/EmodeActions.tsx
+#: src/modules/dashboard/DashboardEModeButton.tsx
+msgid "Enable E-Mode"
+msgstr "启用E-Mode"
+
+#: src/components/transactions/CollateralChange/CollateralChangeActions.tsx
+msgid "Enable {symbol} as collateral"
+msgstr "将{symbol}作为抵押品启用"
+
+#: src/components/transactions/FlowCommons/TxModalDetails.tsx
+#: src/modules/dashboard/DashboardEModeButton.tsx
+msgid "Enabled"
+msgstr "已启用"
+
+#: src/components/transactions/Emode/EmodeActions.tsx
+msgid "Enabling E-Mode"
+msgstr "启用E-Mode"
+
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+msgid "Enabling E-Mode only allows you to borrow assets belonging to the selected category. Please visit our <0>FAQ guide</0> to learn more about how it works and the applied restrictions."
+msgstr "只有启用E-Mode才能借入所选类别的资产。请查看我们的<0>FAQ指南</0>以了解有关其工作原理和应用限制的更多信息。"
+
+#: src/components/transactions/CollateralChange/CollateralChangeModalContent.tsx
+msgid "Enabling this asset as collateral increases your borrowing power and Health Factor. However, it can get liquidated if your health factor drops below 1."
+msgstr "将此资产作为抵押品启用可增加您的借款能力和健康因子。但是，如果您的健康因子低于1，它可能会被清算。"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Ended"
+msgstr "已结束"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Ends"
+msgstr "结束"
+
+#: src/layouts/components/LanguageSwitcher.tsx
+msgid "English"
+msgstr "英语"
+
+#: src/components/transactions/GovDelegation/GovDelegationModalContent.tsx
+msgid "Enter ETH address"
+msgstr "输入ETH地址"
+
+#: src/components/transactions/TxActionsWrapper.tsx
+msgid "Enter an amount"
+msgstr "输入一个金额"
+
+#: src/components/WalletConnection/WalletSelector.tsx
+msgid "Error connecting. Try refreshing the page."
+msgstr "连接错误。请刷新页面重试。"
+
+#: src/modules/reserve-overview/Gho/GhoPieChartContainer.tsx
+msgid "Exceeds the discount"
+msgstr "超出折扣"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Executed"
+msgstr "已执行"
+
+#: src/components/transactions/Repay/CollateralRepayModalContent.tsx
+msgid "Expected amount to repay"
+msgstr "预期偿还金额"
+
+#: src/modules/governance/FormattedProposalTime.tsx
+msgid "Expires"
+msgstr "到期"
+
+#: src/modules/history/HistoryWrapperMobile.tsx
+msgid "Export data to"
+msgstr "将数据导出到"
+
+#: src/ui-config/menu-items/index.tsx
+msgid "FAQ"
+msgstr "FAQ"
+
+#: src/modules/governance/proposal/VotersListContainer.tsx
+msgid "Failed to load proposal voters. Please refresh the page."
+msgstr "无法加载提案投票人。请刷新页面。"
+
+#: src/modules/markets/Farms/FarmsList.tsx
+msgid "Farm Name"
+msgstr "农名"
+
+#: src/components/transactions/Faucet/CaptchaFaucetModalContent.tsx
+#: src/components/transactions/Faucet/FaucetModal.tsx
+#: src/modules/dashboard/lists/ListBottomText.tsx
+#: src/modules/faucet/FaucetAssetsList.tsx
+#: src/modules/faucet/FaucetItemLoader.tsx
+#: src/modules/faucet/FaucetMobileItemLoader.tsx
+#: src/ui-config/menu-items/index.tsx
+msgid "Faucet"
+msgstr "水龙头"
+
+#: src/components/transactions/Faucet/CaptchaFaucetModalContent.tsx
+#: src/components/transactions/Faucet/FaucetActions.tsx
+msgid "Faucet {0}"
+msgstr "水龙头{0}"
+
+#: src/components/transactions/TxActionsWrapper.tsx
+msgid "Fetching data..."
+msgstr "获取数据中..."
+
+#: src/modules/governance/ProposalListHeader.tsx
+#: src/modules/governance/ProposalListHeader.tsx
+msgid "Filter"
+msgstr "筛选"
+
+#: src/components/infoTooltips/MigrationDisabledTooltip.tsx
+msgid "Flashloan is disabled for this asset, hence this position cannot be migrated."
+msgstr "此资产已禁用闪电贷，因此无法迁移此仓位。"
+
+#: src/ui-config/errorMapping.tsx
+msgid "For repayment of a specific type of debt, the user needs to have debt that type"
+msgstr "为了偿还特定类型的债务，用户需要拥有该类型的债务"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Forum discussion"
+msgstr "论坛讨论"
+
+#: src/layouts/components/LanguageSwitcher.tsx
+msgid "French"
+msgstr "法语"
+
+#: src/modules/markets/MarketAssetsListContainer.tsx
+msgid "Frozen or paused assets"
+msgstr "冻结或暂停的资产"
+
+#: src/modules/staking/StakingHeader.tsx
+msgid "Funds in the Safety Module"
+msgstr "安全模块中的资金"
+
+#: src/layouts/components/GaslessModeSwitcher.tsx
+msgid "Gasless Transaction"
+msgstr "无煤气交易"
+
+#: src/modules/staking/GetABPToken.tsx
+#: src/modules/staking/GetABPTokenModal.tsx
+msgid "Get ABP Token"
+msgstr "获取ABP代币"
+
+#: src/layouts/AppFooter.tsx
+msgid "Github"
+msgstr "Github"
+
+#: src/layouts/MobileMenu.tsx
+#: src/layouts/SettingsMenu.tsx
+msgid "Global settings"
+msgstr "全局设置"
+
+#: src/modules/governance/proposal/ProposalTopPanel.tsx
+#: src/modules/migration/MigrationTopPanel.tsx
+#: src/modules/reserve-overview/ReserveTopDetailsWrapper.tsx
+msgid "Go Back"
+msgstr "返回"
+
+#: src/modules/staking/GetABPTokenModal.tsx
+msgid "Go to Balancer Pool"
+msgstr "转至平衡池"
+
+#: src/components/transactions/MigrateV3/MigrateV3ModalContent.tsx
+msgid "Go to V3 Dashboard"
+msgstr "转至V3仪表板"
+
+#: src/layouts/components/LanguageSwitcher.tsx
+msgid "Greek"
+msgstr "希腊语"
+
+#: src/modules/migration/MigrationBottomPanel.tsx
+msgid "Health Factor ({0} v2)"
+msgstr "健康因子（{0} v2）"
+
+#: src/modules/migration/MigrationBottomPanel.tsx
+msgid "Health Factor ({0} v3)"
+msgstr "健康因子（{0} v3）"
+
+#: src/components/transactions/FlowCommons/TxModalDetails.tsx
+#: src/modules/dashboard/DashboardTopPanel.tsx
+#: src/modules/dashboard/LiquidationRiskParametresModal/LiquidationRiskParametresModal.tsx
+msgid "Health factor"
+msgstr "健康因子"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Health factor is lesser than the liquidation threshold"
+msgstr "健康因子低于清算阈值"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Health factor is not below the threshold"
+msgstr "健康因子未低于阈值"
+
+#: src/modules/markets/Farms/FarmsListContainer.tsx
+msgid "Here you can find the various partner farms that have either integrated with ZeroLend or have farms with the ONEZ stablecoin."
+msgstr "在这里，您可以找到与 ZeroLend 集成或拥有 ONEZ 稳定币农场的各种合作农场。"
+
+#: src/components/lists/ListWrapper.tsx
+msgid "Hide"
+msgstr "隐藏"
+
+#: src/modules/staking/GhoDiscountProgram.tsx
+msgid "Holders of stkZERO receive a discount on the ONEZ borrowing rate"
+msgstr ""
+
+#: src/ui-config/menu-items/index.tsx
+msgid "Home"
+msgstr "主页"
+
+#: src/modules/rewards/WalletBalance.tsx
+msgid "How much rewards you currently have in your wallet?"
+msgstr "您的钱包里目前有多少奖励？"
+
+#: src/modules/rewards/TotalRewards.tsx
+msgid "How much rewards you have yet to claim?"
+msgstr "您还有多少奖励没有领取？"
+
+#: src/components/transactions/Borrow/BorrowAmountWarning.tsx
+#: src/components/transactions/Withdraw/WithdrawModalContent.tsx
+msgid "I acknowledge the risks involved."
+msgstr "我承认涉及的风险。"
+
+#: src/modules/migration/MigrationBottomPanel.tsx
+msgid "I fully understand the risks of migrating."
+msgstr "我充分理解迁移的风险。"
+
+#: src/components/transactions/StakeCooldown/StakeCooldownModalContent.tsx
+msgid "I understand how cooldown ({0}) and unstaking ({1}) work"
+msgstr "我理解冷却（{0}）和解锁（{1}）的工作原理。"
+
+#: pages/500.page.tsx
+msgid "If the error continues to happen,<0/> you may report it to this"
+msgstr "如果错误继续发生，<0/>您可以向此处报告。"
+
+#: src/modules/dashboard/LiquidationRiskParametresModal/LiquidationRiskParametresModal.tsx
+msgid "If the health factor goes below 1, the liquidation of your collateral might be triggered."
+msgstr "如果健康因子低于1，可能会触发抵押品的清算。"
+
+#: src/components/transactions/StakeCooldown/StakeCooldownModalContent.tsx
+msgid "If you DO NOT unstake within {0} of unstake window, you will need to activate cooldown process again."
+msgstr "如果您在解锁窗口的{0}内不解锁，您将需要再次启动冷却过程。"
+
+#: src/modules/dashboard/LiquidationRiskParametresModal/LiquidationRiskParametresModal.tsx
+msgid "If your loan to value goes above the liquidation threshold your collateral supplied may be liquidated."
+msgstr "如果您的贷款价值超过清算阈值，您提供的抵押品可能会被清算。"
+
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsList.tsx
+msgid "In E-Mode some assets are not borrowable. Exit E-Mode to get access to all assets"
+msgstr "在E-Mode模式下，某些资产不可借用。退出E-Mode以获得对所有资产的访问权限。"
+
+#: src/components/transactions/Warnings/IsolationModeWarning.tsx
+msgid "In Isolation mode, you cannot supply other assets as collateral. A global debt ceiling limits the borrowing power of the isolated asset. To exit isolation mode disable {0} as collateral before borrowing another asset. Read more in our <0>FAQ</0>"
+msgstr "在隔离模式下，您不能将其他资产作为抵押品提供。全球债务上限限制了隔离资产的借款能力。在借入另一种资产之前，请退出隔离模式并将{0}设置为非抵押品。在我们的<0>FAQ</0>中了解更多信息。"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Inconsistent flashloan parameters"
+msgstr "不一致的闪电贷参数"
+
+#: src/components/transactions/DebtSwitch/DebtSwitchModalContent.tsx
+msgid "Insufficient collateral to cover new borrow position. Wallet must have borrowing power remaining to perform debt switch."
+msgstr "抵押品不足以覆盖新的借款头寸。钱包必须保留足够的借款额度来执行债务切换。"
+
+#: src/modules/reserve-overview/Gho/GhoInterestRateGraph.tsx
+msgid "Interest accrued"
+msgstr "已应计的利息"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Interest rate rebalance conditions were not met"
+msgstr "利率再平衡的条件未满足"
+
+#: src/modules/reserve-overview/ReserveConfiguration.tsx
+msgid "Interest rate strategy"
+msgstr "利率策略"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Invalid amount to burn"
+msgstr "无效的销毁金额"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Invalid amount to mint"
+msgstr "无效的铸造金额"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Invalid bridge protocol fee"
+msgstr "无效的桥梁协议费"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Invalid expiration"
+msgstr "无效的到期"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Invalid flashloan premium"
+msgstr "无效的闪电贷溢价"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Invalid return value of the flashloan executor function"
+msgstr "闪电贷执行器函数的返回值无效"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Invalid signature"
+msgstr "无效的签名"
+
+#: src/components/isolationMode/IsolatedBadge.tsx
+msgid "Isolated"
+msgstr "孤立"
+
+#: src/components/caps/DebtCeilingStatus.tsx
+msgid "Isolated Debt Ceiling"
+msgstr "孤立的债务上限"
+
+#: src/components/isolationMode/IsolatedBadge.tsx
+msgid "Isolated assets have limited borrowing power and other assets cannot be used as collateral."
+msgstr "孤立资产的借款能力有限，不能将其他资产用作抵押品。"
+
+#: src/layouts/AppMiniBanner.tsx
+#: src/layouts/AppMiniBanner.tsx
+#: src/layouts/AppMiniBanner.tsx
+msgid "JOIN OUR GUILD"
+msgstr "加入我们的协会"
+
+#: src/layouts/components/LanguageSwitcher.tsx
+msgid "Japanese"
+msgstr ""
+
+#: src/components/transactions/Warnings/MarketWarning.tsx
+msgid "Join the community discussion"
+msgstr "加入社区讨论"
+
+#: src/layouts/TopBarNotify.tsx
+msgid "LEARN MORE"
+msgstr "了解更多"
+
+#: src/layouts/components/LanguageSwitcher.tsx
+msgid "Language"
+msgstr "语言"
+
+#: src/components/infoTooltips/SupplyCapMaxedTooltip.tsx
+#: src/components/transactions/StakeCooldown/StakeCooldownModalContent.tsx
+#: src/components/transactions/Warnings/BorrowCapWarning.tsx
+#: src/components/transactions/Warnings/DebtCeilingWarning.tsx
+#: src/components/transactions/Warnings/MarketWarning.tsx
+#: src/components/transactions/Warnings/SupplyCapWarning.tsx
+#: src/layouts/TopBarNotify.tsx
+#: src/modules/dashboard/LiquidationRiskParametresModal/LiquidationRiskParametresModal.tsx
+#: src/modules/reserve-overview/BorrowInfo.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "Learn more"
+msgstr "了解更多"
+
+#: src/modules/staking/StakingHeader.tsx
+msgid "Learn more about risks involved"
+msgstr "了解涉及的风险"
+
+#: src/components/isolationMode/IsolatedBadge.tsx
+msgid "Learn more in our <0>FAQ guide</0>"
+msgstr "在我们的<0>FAQ指南</0>中了解更多信息"
+
+#: src/modules/governance/DelegatedInfoPanel.tsx
+msgid "Learn more."
+msgstr "了解更多。"
+
+#: src/layouts/MobileMenu.tsx
+msgid "Links"
+msgstr "链接"
+
+#: src/modules/history/HistoryFilterMenu.tsx
+msgid "Liqudation"
+msgstr "清算"
+
+#: src/modules/history/actions/ActionDetails.tsx
+msgid "Liquidated collateral"
+msgstr "已清算的抵押品"
+
+#: src/modules/history/actions/ActionDetails.tsx
+msgid "Liquidation"
+msgstr "清算"
+
+#: src/modules/dashboard/LiquidationRiskParametresModal/components/LTVContent.tsx
+msgid "Liquidation <0/> threshold"
+msgstr "清算<0/>阈值"
+
+#: src/modules/migration/MigrationList.tsx
+msgid "Liquidation Threshold"
+msgstr "清算阈值"
+
+#: src/components/transactions/FlowCommons/TxModalDetails.tsx
+#: src/modules/migration/HFChange.tsx
+msgid "Liquidation at"
+msgstr "清算于"
+
+#: src/modules/reserve-overview/ReserveEModePanel.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "Liquidation penalty"
+msgstr "清算惩罚"
+
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+msgid "Liquidation risk"
+msgstr "清算风险"
+
+#: src/modules/dashboard/LiquidationRiskParametresModal/LiquidationRiskParametresModal.tsx
+msgid "Liquidation risk parameters"
+msgstr "清算风险参数"
+
+#: src/components/transactions/Swap/SwapModalDetails.tsx
+#: src/modules/migration/MigrationListMobileItem.tsx
+#: src/modules/reserve-overview/ReserveEModePanel.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "Liquidation threshold"
+msgstr "清算阈值"
+
+#: src/modules/dashboard/LiquidationRiskParametresModal/components/HFContent.tsx
+msgid "Liquidation value"
+msgstr "清算价值"
+
+#: src/modules/reserve-overview/graphs/ApyGraphContainer.tsx
+msgid "Loading data..."
+msgstr "加载数据..."
+
+#: src/ui-config/errorMapping.tsx
+msgid "Ltv validation failed"
+msgstr "贷款价值比验证失败"
+
+#: src/modules/dashboard/LiquidationRiskParametresModal/components/LTVContent.tsx
+msgid "MAX"
+msgstr "最大"
+
+#: src/modules/reserve-overview/ReserveTopDetailsWrapper.tsx
+msgid "Market"
+msgstr "市场"
+
+#: src/components/transactions/AssetInput.tsx
+msgid "Max"
+msgstr "最大"
+
+#: src/modules/migration/MigrationList.tsx
+#: src/modules/migration/MigrationListMobileItem.tsx
+#: src/modules/reserve-overview/ReserveEModePanel.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "Max LTV"
+msgstr "最大贷款价值比"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "Max slashing"
+msgstr "最大削减"
+
+#: src/components/transactions/Warnings/DebtCeilingWarning.tsx
+msgid "Maximum amount available to borrow against this asset is limited because debt ceiling is at {0}%."
+msgstr "最大可借款金额受限，因为协议借款上限为 {0}%。"
+
+#: src/modules/reserve-overview/Gho/GhoBorrowInfo.tsx
+#: src/modules/reserve-overview/Gho/GhoBorrowInfo.tsx
+msgid "Maximum amount available to borrow is <0/> {0} (<1/>)."
+msgstr "最大可借款金额为<0/> {0}（<1/>）。"
+
+#: src/components/transactions/Warnings/BorrowCapWarning.tsx
+msgid "Maximum amount available to borrow is limited because protocol borrow cap is nearly reached."
+msgstr "最大可借款额受限，因为协议借款上限已接近。"
+
+#: src/modules/reserve-overview/BorrowInfo.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "Maximum amount available to supply is <0/> {0} (<1/>)."
+msgstr "最大可供应金额为 <0/> {0} (<1/>)。"
+
+#: src/components/transactions/Warnings/SupplyCapWarning.tsx
+msgid "Maximum amount available to supply is limited because protocol supply cap is at {0}%."
+msgstr "最大可供应金额受限，因为协议供应上限为 {0}%。"
+
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+msgid "Maximum loan to value"
+msgstr "最大贷款价值"
+
+#: src/modules/markets/Gho/GhoBanner.tsx
+msgid "Meet ONEZ"
+msgstr "认识 ONEZ"
+
+#: src/layouts/MobileMenu.tsx
+msgid "Menu"
+msgstr "菜单"
+
+#: src/components/transactions/MigrateV3/MigrateV3Actions.tsx
+msgid "Migrate"
+msgstr "迁移"
+
+#: src/components/TopInfoPanel/PageTitle.tsx
+msgid "Migrate to V3"
+msgstr "迁移到V3"
+
+#: src/modules/dashboard/DashboardTopPanel.tsx
+msgid "Migrate to v3"
+msgstr "迁移到v3"
+
+#: src/modules/dashboard/DashboardTopPanel.tsx
+#: src/modules/migration/MigrationTopPanel.tsx
+msgid "Migrate to {0} v3 Market"
+msgstr "迁移到{0} v3 市场"
+
+#: src/components/transactions/MigrateV3/MigrateV3ModalContent.tsx
+msgid "Migrated"
+msgstr "已迁移"
+
+#: src/components/transactions/MigrateV3/MigrateV3Actions.tsx
+msgid "Migrating"
+msgstr "正在迁移"
+
+#: src/modules/migration/MigrationBottomPanel.tsx
+msgid "Migrating multiple collaterals and borrowed assets at the same time can be an expensive operation and might fail in certain situations.<0>Therefore it’s not recommended to migrate positions with more than 5 assets (deposited + borrowed) at the same time.</0>"
+msgstr "<0>因此，不建议同时迁移超过 5 个资产（存入 + 借入）的仓位</0>。"
+
+#: src/modules/migration/MigrationBottomPanel.tsx
+msgid "Migration risks"
+msgstr "迁移风险"
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+msgid "Minimum GHO borrow amount"
+msgstr "最低GHO借款金额"
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+msgid "Minimum staked ZeroLend amount"
+msgstr "最低零贷款额度"
+
+#: src/components/transactions/Borrow/BorrowModal.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/GhoBorrowAssetsListItem.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/GhoBorrowAssetsListItem.tsx
+msgid "Mint"
+msgstr "薄荷糖"
+
+#: src/components/transactions/Borrow/GhoBorrowModalContent.tsx
+msgid "Minted"
+msgstr "铸币"
+
+#: src/layouts/MoreMenu.tsx
+msgid "More"
+msgstr "更多"
+
+#: src/modules/governance/VoteBar.tsx
+msgid "NAY"
+msgstr "反对"
+
+#: src/components/WalletConnection/WalletSelector.tsx
+msgid "Need help connecting a wallet? <0>Read our FAQ</0>"
+msgstr "需要帮助连接钱包吗？<0>阅读我们的常见问题</0>"
+
+#: src/components/incentives/IncentivesTooltipContent.tsx
+msgid "Net APR"
+msgstr "净年利率"
+
+#: src/modules/dashboard/DashboardTopPanel.tsx
+msgid "Net APY"
+msgstr "净年化收益率"
+
+#: src/components/infoTooltips/NetAPYTooltip.tsx
+msgid "Net APY is the combined effect of all supply and borrow positions on net worth, including incentives. It is possible to have a negative net APY if debt APY is higher than supply APY."
+msgstr "净年化收益率是净值上的所有供应和借款仓位，包括激励的综合效应。如果债务年化收益率高于供应年化收益率，净年化收益率可能为负数。"
+
+#: src/modules/dashboard/DashboardTopPanel.tsx
+msgid "Net worth"
+msgstr "净值"
+
+#: src/layouts/WalletWidget.tsx
+msgid "Network"
+msgstr "网络"
+
+#: src/components/WalletConnection/WalletSelector.tsx
+msgid "Network not supported for this wallet"
+msgstr "此钱包不支持的网络"
+
+#: src/components/transactions/RateSwitch/RateSwitchModalContent.tsx
+msgid "New APY"
+msgstr "新年化收益率"
+
+#: src/modules/migration/MigrationBottomPanel.tsx
+msgid "No assets selected to migrate."
+msgstr "未选择要迁移的资产。"
+
+#: src/components/transactions/StakeRewardClaim/StakeRewardClaimModalContent.tsx
+#: src/components/transactions/StakeRewardClaimRestake/StakeRewardClaimRestakeModalContent.tsx
+msgid "No rewards to claim"
+msgstr "无奖励可领取"
+
+#: src/components/NoSearchResults.tsx
+#: src/components/NoSearchResults.tsx
+msgid "No search results{0}"
+msgstr "没有搜索结果{0}"
+
+#: src/modules/history/HistoryWrapper.tsx
+#: src/modules/history/HistoryWrapperMobile.tsx
+msgid "No transactions yet."
+msgstr "尚无交易。"
+
+#: src/components/transactions/GovVote/GovVoteModalContent.tsx
+msgid "No voting power"
+msgstr "无投票权"
+
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+#: src/components/transactions/FlowCommons/TxModalDetails.tsx
+msgid "None"
+msgstr "无"
+
+#: src/components/transactions/GovDelegation/GovDelegationModalContent.tsx
+msgid "Not a valid address"
+msgstr "无效地址"
+
+#: src/components/transactions/Stake/StakeModalContent.tsx
+msgid "Not enough balance on your wallet"
+msgstr "您的钱包余额不足"
+
+#: src/components/transactions/Repay/CollateralRepayModalContent.tsx
+msgid "Not enough collateral to repay this amount of debt with"
+msgstr "没有足够的抵押物来偿还这笔债务"
+
+#: src/components/transactions/UnStake/UnStakeModalContent.tsx
+msgid "Not enough staked balance"
+msgstr "没有足够的抵押余额"
+
+#: src/modules/governance/proposal/VoteInfo.tsx
+msgid "Not enough voting power to participate in this proposal"
+msgstr "没有足够的投票权参与此提案"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Not reached"
+msgstr "未达成"
+
+#: pages/v3-migration.page.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsList.tsx
+msgid "Nothing borrowed yet"
+msgstr "尚未借入"
+
+#: src/modules/history/HistoryWrapper.tsx
+#: src/modules/history/HistoryWrapperMobile.tsx
+msgid "Nothing found"
+msgstr "未找到"
+
+#: src/components/transactions/StakeCooldown/StakeCooldownModalContent.tsx
+msgid "Nothing staked"
+msgstr "未抵押"
+
+#: pages/v3-migration.page.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+msgid "Nothing supplied yet"
+msgstr "尚未供应"
+
+#: src/components/HALLink.tsx
+msgid "Notify"
+msgstr "通知"
+
+#: src/modules/reserve-overview/Gho/GhoReserveConfiguration.tsx
+msgid "ONEZ is a native decentralized, collateral-backed digital asset pegged to USD. It is created by users via borrowing against multiple collateral. When user repays their ONEZ borrow position, the protocol burns that user's ONEZ. All the interest payments accrued by minters of ONEZ would be directly transferred to the ZeroLend treasury."
+msgstr "ONEZ 是一种与美元挂钩的原生去中心化抵押数字资产。它由用户通过对多种抵押品的借贷而创建。当用户偿还其 ONEZ 借款头寸时，协议会烧毁该用户的 ONEZ。ONEZ 挖矿者产生的所有利息将直接转入 ZeroLend 金库。"
+
+#: src/modules/reserve-overview/Gho/GhoReserveConfiguration.tsx
+msgid "ONEZ is currently experimental and hence has a low borrow limit."
+msgstr "ONEZ 目前处于试验阶段，因此借款限额较低。"
+
+#: src/components/transactions/FlowCommons/Success.tsx
+msgid "Ok, Close"
+msgstr "好的，关闭"
+
+#: src/components/TextWithModal.tsx
+msgid "Ok, I got it"
+msgstr "好的，我明白了"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Operation not supported"
+msgstr "不支持的操作"
+
+#: src/modules/reserve-overview/ReserveTopDetails.tsx
+msgid "Oracle price"
+msgstr "Oracle 价格"
+
+#: pages/reserve-overview.page.tsx
+msgid "Overview"
+msgstr "概览"
+
+#: pages/404.page.tsx
+msgid "Page not found"
+msgstr "找不到页面"
+
+#: src/components/incentives/IncentivesTooltipContent.tsx
+msgid "Participating in this {symbol} reserve gives annualized rewards."
+msgstr "参与此 {symbol} 储备可获得年化奖励。"
+
+#: src/modules/markets/Farms/FarmsListContainer.tsx
+msgid "Partner Farms"
+msgstr "合作农场 "
+
+#: src/modules/rewards/TotalRewards.tsx
+msgid "Pending Rewards"
+msgstr "悬赏"
+
+#: src/components/transactions/CollateralChange/CollateralChangeActions.tsx
+#: src/components/transactions/Faucet/FaucetActions.tsx
+msgid "Pending..."
+msgstr "待定..."
+
+#: src/components/transactions/Warnings/MarketWarning.tsx
+msgid "Per the community, the Fantom market has been frozen."
+msgstr "根据社区的意见，Fantom 市场已被冻结。"
+
+#: src/components/transactions/Warnings/MarketWarning.tsx
+msgid "Per the community, the V2 AMM market has been deprecated."
+msgstr "根据社区的意见，V2 AMM 市场已被弃用。"
+
+#: src/modules/markets/Farms/FarmsList.tsx
+msgid "Platform"
+msgstr "平台"
+
+#: src/modules/migration/MigrationBottomPanel.tsx
+msgid "Please always be aware of your <0>Health Factor (HF)</0> when partially migrating a position and that your rates will be updated to V3 rates."
+msgstr "在部分迁移仓位时，请始终注意您的 <0> 健康因子 (HF) </0>，以及您的利率将会更新为 V3 利率。"
+
+#: src/modules/governance/UserGovernanceInfo.tsx
+#: src/modules/reserve-overview/ReserveActions.tsx
+msgid "Please connect a wallet to view your personal information here."
+msgstr "请连接钱包以在此处查看个人信息。"
+
+#: src/modules/faucet/FaucetAssetsList.tsx
+msgid "Please connect your wallet to get free testnet assets."
+msgstr "请连接您的钱包以获得免费的测试网资产。"
+
+#: pages/v3-migration.page.tsx
+msgid "Please connect your wallet to see migration tool."
+msgstr "请连接您的钱包以查看迁移工具。"
+
+#: src/components/ConnectWalletPaper.tsx
+#: src/components/ConnectWalletPaperStaking.tsx
+msgid "Please connect your wallet to see your supplies, borrowings, and open positions."
+msgstr "请连接您的钱包以查看您的供应、借款和未平仓仓位。"
+
+#: src/modules/history/HistoryWrapper.tsx
+msgid "Please connect your wallet to view transaction history."
+msgstr "请连接您的钱包以查看交易历史记录。"
+
+#: src/components/WalletConnection/WalletSelector.tsx
+msgid "Please enter a valid wallet address."
+msgstr "请输入有效的钱包地址。"
+
+#: src/components/transactions/Warnings/ChangeNetworkWarning.tsx
+msgid "Please switch to {networkName}."
+msgstr "请切换到 {networkName}。"
+
+#: src/components/ConnectWalletPaper.tsx
+#: src/components/ConnectWalletPaperStaking.tsx
+msgid "Please, connect your wallet"
+msgstr "请连接您的钱包"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Pool addresses provider is not registered"
+msgstr "池地址提供程序未注册"
+
+#: src/modules/dashboard/lists/SlippageList.tsx
+msgid "Powered by"
+msgstr "由... 提供动力"
+
+#: src/modules/migration/MigrationBottomPanel.tsx
+msgid "Preview tx and migrate"
+msgstr "预览交易并迁移"
+
+#: src/modules/reserve-overview/Gho/GhoReserveTopDetails.tsx
+msgid "Price"
+msgstr "价格"
+
+#: src/modules/history/PriceUnavailable.tsx
+msgid "Price data is not currently available for this reserve on the protocol subgraph"
+msgstr "协议子图上当前不提供此储备的价格数据"
+
+#: src/components/infoTooltips/PriceImpactTooltip.tsx
+msgid "Price impact is the spread between the total value of the entry tokens switched and the destination tokens obtained (in USD), which results from the limited liquidity of the trading pair."
+msgstr "价格冲击是入场代币和目标代币的总价值之间的差额（以美元计算），由于交易对的流动性有限而产生。"
+
+#: src/components/infoTooltips/PriceImpactTooltip.tsx
+msgid "Price impact {0}%"
+msgstr "价格冲击 {0}%"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Proposal details"
+msgstr "提案详情"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Proposal overview"
+msgstr "提案概览"
+
+#: pages/governance/index.governance.tsx
+#: src/modules/governance/ProposalListHeader.tsx
+#: src/modules/governance/ProposalListHeader.tsx
+msgid "Proposals"
+msgstr "提案"
+
+#: src/components/transactions/GovDelegation/DelegationTypeSelector.tsx
+msgid "Proposition"
+msgstr "提案"
+
+#: src/components/infoTooltips/BorrowCapMaxedTooltip.tsx
+msgid "Protocol borrow cap at 100% for this asset. Further borrowing unavailable."
+msgstr "该资产的协议借款上限为 100%。不可用进一步借款。"
+
+#: src/components/transactions/Warnings/BorrowCapWarning.tsx
+msgid "Protocol borrow cap is at 100% for this asset. Further borrowing unavailable."
+msgstr "该资产的协议借款上限为 100%。不可用进一步借款。"
+
+#: src/components/transactions/Warnings/DebtCeilingWarning.tsx
+msgid "Protocol debt ceiling is at 100% for this asset. Further borrowing against this asset is unavailable."
+msgstr "该资产的协议债务上限为 100%。不可用进一步借款。"
+
+#: src/components/infoTooltips/DebtCeilingMaxedTooltip.tsx
+msgid "Protocol debt ceiling is at 100% for this asset. Futher borrowing against this asset is unavailable."
+msgstr "该资产的协议债务上限为 100%。不可用进一步借款。"
+
+#: src/components/infoTooltips/SupplyCapMaxedTooltip.tsx
+msgid "Protocol supply cap at 100% for this asset. Further supply unavailable."
+msgstr "该资产的协议供应上限为 100%。不可用进一步供应。"
+
+#: src/components/transactions/Warnings/SupplyCapWarning.tsx
+msgid "Protocol supply cap is at 100% for this asset. Further supply unavailable."
+msgstr "该资产的协议供应上限为 100%。不可用进一步供应。"
+
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+msgid "Provide liquidity and get special access to our Discord"
+msgstr "提供流动性并获得特殊访问权限，可加入我们的 Discord。"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+#: src/modules/governance/ProposalListItem.tsx
+msgid "Quorum"
+msgstr "法定人数"
+
+#: src/modules/history/HistoryFilterMenu.tsx
+msgid "Rate change"
+msgstr "利率变更"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Raw-Ipfs"
+msgstr "原始IPFS"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Reached"
+msgstr "已达成"
+
+#: src/modules/staking/StakingPanel.tsx
+#: src/modules/staking/StakingPanel.tsx
+msgid "Reactivate cooldown period to unstake {0} {stakedToken}"
+msgstr "重新激活冷却期以解除{0} {stakedToken} 的质押"
+
+#: src/components/transactions/Warnings/MarketWarning.tsx
+msgid "Read more here."
+msgstr "点击此处阅读更多。"
+
+#: src/components/infoTooltips/ReadOnlyModeTooltip.tsx
+msgid "Read-only mode allows to see address positions in ZeroLend, but you won't be able to perform transactions."
+msgstr "只读模式允许查看 ZeroLend 中的地址位置，但不能执行交易。"
+
+#: src/layouts/WalletWidget.tsx
+msgid "Read-only mode."
+msgstr "只读模式。"
+
+#: src/components/transactions/DelegationTxsWrapper.tsx
+#: src/components/transactions/TxActionsWrapper.tsx
+msgid "Read-only mode. Connect to a wallet to perform transactions."
+msgstr "只读模式。连接钱包以执行交易。"
+
+#: src/components/transactions/Faucet/FaucetModalContent.tsx
+msgid "Received"
+msgstr "已接收"
+
+#: src/components/transactions/GovDelegation/GovDelegationModalContent.tsx
+msgid "Recipient address"
+msgstr "接收方地址"
+
+#: src/components/WalletConnection/WalletSelector.tsx
+msgid "Rejected connection request"
+msgstr "拒绝的连接请求"
+
+#: src/modules/reserve-overview/graphs/ApyGraphContainer.tsx
+msgid "Reload"
+msgstr "重新加载"
+
+#: pages/500.page.tsx
+msgid "Reload the page"
+msgstr "重新加载页面"
+
+#: src/components/transactions/Repay/RepayModalContent.tsx
+msgid "Remaining debt"
+msgstr "剩余债务"
+
+#: src/components/transactions/Withdraw/WithdrawModalContent.tsx
+msgid "Remaining supply"
+msgstr "剩余供应"
+
+#: src/components/transactions/Repay/CollateralRepayModalContent.tsx
+msgid "Repaid"
+msgstr "已还清"
+
+#: src/components/transactions/Repay/RepayModal.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsListItem.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsListMobileItem.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/GhoBorrowedPositionsListItem.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/GhoBorrowedPositionsListItem.tsx
+#: src/modules/history/HistoryFilterMenu.tsx
+#: src/modules/history/actions/ActionDetails.tsx
+msgid "Repay"
+msgstr "偿还"
+
+#: src/components/transactions/Repay/RepayTypeSelector.tsx
+msgid "Repay with"
+msgstr "使用以下方式还款"
+
+#: src/components/transactions/Repay/CollateralRepayActions.tsx
+#: src/components/transactions/Repay/CollateralRepayActions.tsx
+#: src/components/transactions/Repay/RepayActions.tsx
+msgid "Repay {symbol}"
+msgstr "还款{symbol}"
+
+#: src/components/transactions/Repay/CollateralRepayActions.tsx
+#: src/components/transactions/Repay/RepayActions.tsx
+msgid "Repaying {symbol}"
+msgstr "正在偿还{symbol}"
+
+#: src/modules/reserve-overview/graphs/InterestRateModelGraph.tsx
+msgid "Repayment amount to reach {0}% utilization"
+msgstr "还款金额达到{0}% 利用率"
+
+#: src/modules/reserve-overview/ReserveTopDetails.tsx
+msgid "Reserve Size"
+msgstr "储备规模"
+
+#: src/modules/reserve-overview/ReserveFactorOverview.tsx
+msgid "Reserve factor"
+msgstr "储备系数"
+
+#: src/components/infoTooltips/ReserveFactorTooltip.tsx
+msgid "Reserve factor is a percentage of interest which goes to a {0} that is controlled by ZeroLend governance to promote ecosystem growth."
+msgstr "储备系数是利息的一个百分比，由 ZeroLend 管理部门控制，以促进生态系统的发展。"
+
+#: src/modules/reserve-overview/ReserveConfigurationWrapper.tsx
+msgid "Reserve status & configuration"
+msgstr "储备状态和配置"
+
+#: src/modules/history/HistoryFilterMenu.tsx
+msgid "Reset"
+msgstr "重置"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "Restake"
+msgstr "重新质押"
+
+#: src/components/transactions/StakeRewardClaimRestake/StakeRewardClaimRestakeActions.tsx
+msgid "Restake {symbol}"
+msgstr "重新质押{symbol}"
+
+#: src/components/transactions/StakeRewardClaimRestake/StakeRewardClaimRestakeModalContent.tsx
+msgid "Restaked"
+msgstr "已重新质押"
+
+#: src/components/transactions/StakeRewardClaimRestake/StakeRewardClaimRestakeActions.tsx
+msgid "Restaking {symbol}"
+msgstr "重新质押{symbol}"
+
+#: src/components/transactions/FlowCommons/RightHelperText.tsx
+msgid "Review approval tx details"
+msgstr "审查批准交易详情"
+
+#: src/modules/migration/MigrationBottomPanel.tsx
+msgid "Review changes to continue"
+msgstr "查看更改以继续"
+
+#: src/components/transactions/CollateralChange/CollateralChangeModal.tsx
+msgid "Review tx"
+msgstr "审查交易"
+
+#: src/components/transactions/Borrow/GhoBorrowSuccessView.tsx
+#: src/components/transactions/FlowCommons/Success.tsx
+msgid "Review tx details"
+msgstr "审查交易详情"
+
+#: src/modules/governance/DelegatedInfoPanel.tsx
+msgid "Revoke power"
+msgstr "撤销权限"
+
+#: src/components/transactions/ClaimRewards/RewardsSelect.tsx
+msgid "Reward(s) to claim"
+msgstr "要领取的奖励"
+
+#: src/ui-config/menu-items/index.tsx
+msgid "Rewards"
+msgstr "奖励"
+
+#: src/components/transactions/FlowCommons/TxModalDetails.tsx
+msgid "Rewards APR"
+msgstr "奖励年利率"
+
+#: src/modules/markets/Farms/FarmsList.tsx
+msgid "Rewards Token"
+msgstr "奖励令牌"
+
+#: src/modules/rewards/RewardsTopPanel.tsx
+msgid "Rewards 💰"
+msgstr "奖励"
+
+#: src/components/HealthFactorNumber.tsx
+msgid "Risk details"
+msgstr "风险详情"
+
+#: src/modules/dashboard/lists/ListItemAPYButton.tsx
+msgid "SEE CHARTS"
+msgstr "查看图表"
+
+#: src/modules/dashboard/LiquidationRiskParametresModal/LiquidationRiskParametresModal.tsx
+msgid "Safety of your deposited collateral against the borrowed assets and its underlying value."
+msgstr "您存入的抵押品的安全性，以及其借入的资产和其基础价值。"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Seatbelt report"
+msgstr "安全带报告"
+
+#: src/modules/rewards/RewardsTopPanel.tsx
+msgid "See all the rewards you have earned from ZeroLend in one place. Providing liquidity to ZeroLend lets you pre-mine $ZERO and also get a share of zkSync's upcoming token airdrop."
+msgstr "在一个地方查看您从 ZeroLend 获得的所有奖励。为 ZeroLend 提供流动性，可以让您预先挖掘 $ZERO，还可以从 zkSync 即将推出的代币空投中分得一杯羹。"
+
+#: src/components/transactions/Warnings/ChangeNetworkWarning.tsx
+msgid "Seems like we can't switch the network automatically. Please check if you can change it from the wallet."
+msgstr "看起来我们无法自动切换网络。请检查是否可以从钱包中更改。"
+
+#: src/components/transactions/Emode/EmodeSelect.tsx
+msgid "Select"
+msgstr "选择"
+
+#: src/modules/dashboard/lists/ListItemAPYButton.tsx
+msgid "Select APY type to switch"
+msgstr "选择年收益率 类型进行切换"
+
+#: src/components/transactions/DebtSwitch/DebtSwitchModalContent.tsx
+msgid "Select an asset"
+msgstr "选择资产"
+
+#: src/layouts/components/LanguageSwitcher.tsx
+msgid "Select language"
+msgstr "选择语言"
+
+#: src/modules/dashboard/lists/SlippageList.tsx
+msgid "Select slippage tolerance"
+msgstr "选择滑点容忍度"
+
+#: src/modules/migration/MigrationLists.tsx
+msgid "Select v2 borrows to migrate"
+msgstr "选择要迁移的v2借款"
+
+#: src/modules/migration/MigrationLists.tsx
+msgid "Select v2 supplies to migrate"
+msgstr "选择要迁移的v2供应"
+
+#: src/components/transactions/MigrateV3/MigrateV3ModalContent.tsx
+msgid "Selected assets have successfully migrated. Visit the Market Dashboard to see them."
+msgstr "已成功迁移所选的资产。访问市场仪表板以查看它们。"
+
+#: src/components/transactions/MigrateV3/MigrateV3ModalContent.tsx
+msgid "Selected borrow assets"
+msgstr "所选借款资产"
+
+#: src/components/transactions/MigrateV3/MigrateV3ModalContent.tsx
+msgid "Selected supply assets"
+msgstr "所选供应资产"
+
+#: src/modules/governance/DelegatedInfoPanel.tsx
+msgid "Set up delegation"
+msgstr "建立代表"
+
+#: src/components/HALLink.tsx
+msgid "Setup notifications about your Health Factor using the Hal app."
+msgstr "使用Hal应用程序设置关于您的健康系数的通知。"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+#: src/components/transactions/GovVote/GovVoteModalContent.tsx
+msgid "Share on Lens"
+msgstr "在Lens上分享"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Share on twitter"
+msgstr "在推特上分享"
+
+#: src/components/lists/ListWrapper.tsx
+msgid "Show"
+msgstr "显示"
+
+#: src/modules/dashboard/DashboardListTopPanel.tsx
+msgid "Show assets with 0 balance"
+msgstr "显示余额为0的资产"
+
+#: src/components/transactions/DelegationTxsWrapper.tsx
+msgid "Sign to continue"
+msgstr "签名以继续"
+
+#: src/components/transactions/DelegationTxsWrapper.tsx
+msgid "Signatures ready"
+msgstr "准备好的签名"
+
+#: src/components/transactions/DelegationTxsWrapper.tsx
+msgid "Signing"
+msgstr "签名"
+
+#: src/modules/reserve-overview/ReserveActions.tsx
+msgid "Since this asset is frozen, the only available actions are withdraw and repay which can be accessed from the <0>Dashboard</0>"
+msgstr "由于此资产已冻结，因此唯一可用的操作是提取和还款，可以从<0>仪表板</0>访问。"
+
+#: src/modules/dashboard/lists/ListBottomText.tsx
+msgid "Since this is a test network, you can get any of the assets if you have ETH on your wallet"
+msgstr "由于这是一个测试网络，如果您在钱包中有ETH，您可以获取任何资产中的任何一个。"
+
+#: src/components/infoTooltips/SlippageTooltip.tsx
+msgid "Slippage is the difference between the quoted and received amounts from changing market conditions between the moment the transaction is submitted and its verification."
+msgstr "滑点是指在提交交易和验证交易之间，由于市场条件的变化而导致的报价金额和实际收到金额之间的差异。"
+
+#: src/modules/migration/MigrationList.tsx
+msgid "Some migrated assets will not be used as collateral due to enabled isolation mode in {marketName} V3 Market. Visit <0>{marketName} V3 Dashboard</0> to manage isolation mode."
+msgstr "由于在{marketName} V3市场启用了隔离模式，某些迁移资产将不会用作抵押品。请访问<0>{marketName} V3仪表板</0>以管理隔离模式。"
+
+#: pages/500.page.tsx
+#: src/modules/reserve-overview/graphs/ApyGraphContainer.tsx
+msgid "Something went wrong"
+msgstr "出了点问题"
+
+#: pages/500.page.tsx
+msgid "Sorry, an unexpected error happened. In the meantime you may try reloading the page, or come back later."
+msgstr "抱歉，发生了意外错误。在此期间，您可以尝试重新加载页面，或稍后再回来。"
+
+#: pages/404.page.tsx
+msgid "Sorry, we couldn't find the page you were looking for."
+msgstr "抱歉，我们找不到您正在寻找的页面。"
+
+#: src/layouts/components/LanguageSwitcher.tsx
+msgid "Spanish"
+msgstr "西班牙语"
+
+#: src/components/transactions/Borrow/BorrowModalContent.tsx
+#: src/components/transactions/Borrow/GhoBorrowModalContent.tsx
+#: src/components/transactions/DebtSwitch/DebtSwitchModalDetails.tsx
+#: src/components/transactions/RateSwitch/RateSwitchModalContent.tsx
+#: src/modules/history/actions/BorrowRateModeBlock.tsx
+msgid "Stable"
+msgstr "稳定"
+
+#: src/components/transactions/RateSwitch/RateSwitchModalContent.tsx
+msgid "Stable Interest Type is disabled for this currency"
+msgstr "此货币已禁用稳定利率类型"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Stable borrowing is enabled"
+msgstr "已启用稳定借款"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Stable borrowing is not enabled"
+msgstr "未启用稳定借款"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Stable debt supply is not zero"
+msgstr "稳定债务供应不为零"
+
+#: src/components/infoTooltips/StableAPYTooltip.tsx
+msgid "Stable interest rate will <0>stay the same</0> for the duration of your loan. Recommended for long-term loan periods and for users who prefer predictability."
+msgstr "稳定利率将在贷款期间<0>保持不变</0>。建议用于长期贷款期限和喜好可预测性的用户。"
+
+#: src/utils/eMode.ts
+msgid "Stablecoin"
+msgstr "稳定币"
+
+#: src/components/transactions/Stake/StakeActions.tsx
+#: src/modules/staking/StakingPanel.tsx
+#: src/modules/staking/StakingPanel.tsx
+msgid "Stake"
+msgstr "抵押"
+
+#: pages/staking.staking.tsx
+msgid "Stake ZeroLend"
+msgstr "ZeroLend 标桩"
+
+#: pages/staking.staking.tsx
+msgid "Stake ABPT"
+msgstr "抵押 ABPT"
+
+#: src/components/transactions/StakeCooldown/StakeCooldownModalContent.tsx
+msgid "Stake cooldown activated"
+msgstr "已激活抵押冷却"
+
+#: src/components/transactions/Stake/StakeModalContent.tsx
+#: src/modules/staking/StakingPanel.tsx
+msgid "Staked"
+msgstr "已抵押"
+
+#: src/components/transactions/Stake/StakeActions.tsx
+#: src/modules/staking/StakingHeader.tsx
+msgid "Staking"
+msgstr "抵押中"
+
+#: src/components/transactions/Stake/StakeModalContent.tsx
+#: src/components/transactions/StakeRewardClaimRestake/StakeRewardClaimRestakeModalContent.tsx
+#: src/modules/staking/StakingPanel.tsx
+#: src/modules/staking/StakingPanelNoWallet.tsx
+msgid "Staking APR"
+msgstr "抵押年利率"
+
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "Staking Rewards"
+msgstr "抵押奖励"
+
+#: src/components/transactions/UnStake/UnStakeModalContent.tsx
+msgid "Staking balance"
+msgstr "抵押余额"
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+#: src/modules/reserve-overview/Gho/GhoInterestRateGraph.tsx
+msgid "Staking discount"
+msgstr "抵押折扣"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Started"
+msgstr "已开始"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "State"
+msgstr "状态"
+
+#: src/components/infoTooltips/FixedAPYTooltip.tsx
+msgid "Static interest rate that is determined by ZeroLend Governance. This rate may be changed over time depending on the need for the ONEZ to contract/expand. <0>Learn more</0>"
+msgstr "由 ZeroLend Governance 确定的静态利率。随着时间的推移，该利率可能会根据 ONEZ 收缩/扩张的需要而改变。<0>了解更多</0"
+
+#: src/components/transactions/Supply/SupplyModalContent.tsx
+msgid "Supplied"
+msgstr "已提供"
+
+#: src/components/transactions/Swap/SwapModalContent.tsx
+msgid "Supplied asset amount"
+msgstr "已提供的资产金额"
+
+#: pages/dashboard.page.tsx
+#: src/components/transactions/Supply/SupplyModal.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsListItem.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsListMobileItem.tsx
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsListItem.tsx
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsListMobileItem.tsx
+#: src/modules/history/HistoryFilterMenu.tsx
+#: src/modules/history/actions/ActionDetails.tsx
+#: src/modules/reserve-overview/ReserveActions.tsx
+msgid "Supply"
+msgstr "供应"
+
+#: src/components/transactions/Supply/SupplyModalContent.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsListMobileItem.tsx
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsListMobileItem.tsx
+#: src/modules/markets/MarketAssetsList.tsx
+#: src/modules/markets/MarketAssetsListMobileItem.tsx
+msgid "Supply APY"
+msgstr "供应年收益率 "
+
+#: src/components/transactions/Swap/SwapModalDetails.tsx
+msgid "Supply apy"
+msgstr "供应年收益率 "
+
+#: src/components/transactions/CollateralChange/CollateralChangeModalContent.tsx
+#: src/components/transactions/DebtSwitch/DebtSwitchModalContent.tsx
+#: src/components/transactions/Swap/SwapModalContent.tsx
+#: src/components/transactions/Swap/SwapModalContent.tsx
+#: src/components/transactions/Withdraw/WithdrawModalContent.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsListMobileItem.tsx
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsListMobileItem.tsx
+msgid "Supply balance"
+msgstr "供应余额"
+
+#: src/components/transactions/Swap/SwapModalDetails.tsx
+msgid "Supply balance after switch"
+msgstr "切换后的供应余额"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Supply cap is exceeded"
+msgstr "已超出供应上限"
+
+#: src/components/transactions/Swap/SwapModalContent.tsx
+msgid "Supply cap on target reserve reached. Try lowering the amount."
+msgstr "已达到目标储备的供应上限。尝试降低金额。 "
+
+#: src/components/transactions/Supply/SupplyActions.tsx
+msgid "Supply {symbol}"
+msgstr "供应{符号}"
+
+#: src/components/transactions/Warnings/AAVEWarning.tsx
+msgid "Supplying your"
+msgstr "提供您的"
+
+#: src/components/transactions/Supply/SupplyActions.tsx
+msgid "Supplying {symbol}"
+msgstr "提供{符号}"
+
+#: src/components/transactions/DebtSwitch/DebtSwitchActions.tsx
+#: src/components/transactions/DebtSwitch/DebtSwitchActions.tsx
+#: src/components/transactions/Swap/SwapActions.tsx
+#: src/components/transactions/Swap/SwapActions.tsx
+#: src/components/transactions/Swap/SwapModal.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsListItem.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsListMobileItem.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsListItem.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsListMobileItem.tsx
+msgid "Switch"
+msgstr "切换"
+
+#: src/components/transactions/RateSwitch/RateSwitchModal.tsx
+msgid "Switch APY type"
+msgstr "切换年收益率 类型"
+
+#: src/components/transactions/Emode/EmodeActions.tsx
+msgid "Switch E-Mode"
+msgstr "切换E-Mode"
+
+#: src/modules/dashboard/DashboardEModeButton.tsx
+msgid "Switch E-Mode category"
+msgstr "切换E-Mode类别"
+
+#: src/components/transactions/Warnings/ChangeNetworkWarning.tsx
+msgid "Switch Network"
+msgstr "切换网络"
+
+#: src/components/transactions/DebtSwitch/DebtSwitchModal.tsx
+msgid "Switch borrow position"
+msgstr "切换借款头寸"
+
+#: src/components/transactions/RateSwitch/RateSwitchActions.tsx
+msgid "Switch rate"
+msgstr "切换利率"
+
+#: src/components/transactions/DebtSwitch/DebtSwitchModalContent.tsx
+#: src/components/transactions/Swap/SwapModalContent.tsx
+msgid "Switch to"
+msgstr "切换到"
+
+#: src/components/transactions/Swap/SwapModalContent.tsx
+msgid "Switched"
+msgstr "已切换"
+
+#: src/components/transactions/DebtSwitch/DebtSwitchActions.tsx
+#: src/components/transactions/Swap/SwapActions.tsx
+msgid "Switching"
+msgstr "切换中"
+
+#: src/components/transactions/Emode/EmodeActions.tsx
+msgid "Switching E-Mode"
+msgstr "切换E-Mode"
+
+#: src/components/transactions/RateSwitch/RateSwitchActions.tsx
+msgid "Switching rate"
+msgstr "切换利率"
+
+#: src/modules/reserve-overview/Gho/GhoReserveConfiguration.tsx
+msgid "Techpaper"
+msgstr "技术论文"
+
+#: src/modules/faucet/FaucetAssetsList.tsx
+msgid "Test Assets"
+msgstr "测试资产"
+
+#: src/layouts/components/TestNetModeSwitcher.tsx
+msgid "Testnet mode"
+msgstr "测试网络模式"
+
+#: src/layouts/AppHeader.tsx
+msgid "Testnet mode is ON"
+msgstr "测试网络模式已启用"
+
+#: src/components/transactions/GovVote/GovVoteModalContent.tsx
+msgid "Thank you for voting!!"
+msgstr "感谢您的投票！"
+
+#: src/components/infoTooltips/BorrowPowerTooltip.tsx
+msgid "The % of your total borrowing power used. This is based on the amount of your collateral supplied and the total amount that you can borrow."
+msgstr "您的总借款能力使用百分比。这是基于您提供的抵押品金额和您可以借款的总金额计算的。"
+
+#: src/components/infoTooltips/MaxLTVTooltip.tsx
+msgid "The Maximum LTV ratio represents the maximum borrowing power of a specific collateral. For example, if a collateral has an LTV of 75%, the user can borrow up to 0.75 worth of ETH in the principal currency for every 1 ETH worth of collateral."
+msgstr "最大贷款价值比代表特定抵押品的最大借款能力。例如，如果抵押品的LTV为75％，则用户可以借款相当于1 ETH价值的0.75 ETH作为主要货币。"
+
+#: src/components/transactions/Borrow/BorrowModalContent.tsx
+#: src/components/transactions/Borrow/GhoBorrowModalContent.tsx
+msgid "The Stable Rate is not enabled for this currency"
+msgstr "此货币未启用稳定利率"
+
+#: src/modules/staking/GetABPTokenModal.tsx
+msgid "The ZeroLend Balancer Pool Token (ABPT) is a liquidity pool token. You can receive ABPT by depositing a combination of ZERO + ETH in the Balancer liquidity pool. You can then stake your BPT in the Safety Module to secure the protocol and earn Safety Incentives."
+msgstr ""
+
+#: src/modules/reserve-overview/Gho/GhoReserveTopDetails.tsx
+msgid "The ZeroLend Protocol is programmed to always use the price of 1 ONEZ = $1. This is different from using market pricing via oracles for other crypto assets. This creates stabilizing arbitrage opportunities when the price of ONEZ fluctuates."
+msgstr "ZeroLend 协议的程序设计始终使用 1 ONEZ = 1 美元的价格。这在 ONEZ 价格波动时创造了稳定的套利机会。"
+
+#: src/components/TopInfoPanel/TopInfoPanel.tsx
+msgid "The ZeroLend protocol is now live and is currently in bootstrap mode. Users who deposit assets can pre-mine $ZERO (as earlyZERO) which can be redeemed on token launch. Read about the <0>Phase 1 Launch</0> to learn more."
+msgstr "ZeroLend 协议现已上线，目前处于启动模式。存入资产的用户可以预挖$ZERO（作为earlyZERO），并可在代币发行时兑换。阅读<0>第一阶段启动</0>，了解更多信息。"
+
+#: src/ui-config/errorMapping.tsx
+msgid "The address of the pool addresses provider is invalid"
+msgstr "池地址提供者的地址无效"
+
+#: src/layouts/AppHeader.tsx
+msgid "The app is running in testnet mode. Learn how it works in"
+msgstr "该应用程序正在测试网络模式下运行。了解它的运作方式"
+
+#: src/ui-config/errorMapping.tsx
+msgid "The caller of the function is not an AToken"
+msgstr "调用功能的人不是AToken持有者"
+
+#: src/ui-config/errorMapping.tsx
+msgid "The caller of this function must be a pool"
+msgstr "此功能的调用者必须是池"
+
+#: src/ui-config/errorMapping.tsx
+msgid "The collateral balance is 0"
+msgstr "抵押品余额为0"
+
+#: src/ui-config/errorMapping.tsx
+msgid "The collateral chosen cannot be liquidated"
+msgstr "所选抵押品无法清算"
+
+#: src/components/Warnings/CooldownWarning.tsx
+msgid "The cooldown period is the time required prior to unstaking your tokens (20 days). You can only withdraw your assets from the Security Module after the cooldown period and within the unstake window.<0>Learn more</0>"
+msgstr "冷却期是在解除质押令牌之前所需的时间（20天）。您只能在冷却期内和解质押窗口内从安全模块中提取您的资产。<0>了解更多</0>"
+
+#: src/components/transactions/StakeCooldown/StakeCooldownModalContent.tsx
+msgid "The cooldown period is {0}. After {1} of cooldown, you will enter unstake window of {2}. You will continue receiving rewards during cooldown and unstake window."
+msgstr "冷却期是{0}。冷却{1}后，您将进入{2}的解押窗口。在冷却期和解质押窗口期间，您将继续获得奖励。"
+
+#: src/components/transactions/Swap/SwapModalContent.tsx
+msgid "The effects on the health factor would cause liquidation. Try lowering the amount."
+msgstr "对健康系数的影响将导致清算。尝试降低金额。"
+
+#: src/modules/migration/MigrationBottomPanel.tsx
+msgid "The loan to value of the migrated positions would cause liquidation. Increase migrated collateral or reduce migrated borrow to continue."
+msgstr "迁移头寸的贷款价值比将导致清算。增加已迁移的抵押品或减少已迁移的借款以继续。"
+
+#: src/ui-config/errorMapping.tsx
+msgid "The requested amount is greater than the max loan size in stable rate mode"
+msgstr "所请求的金额超过了稳定利率模式下的最大贷款金额"
+
+#: src/components/infoTooltips/CollateralTooltip.tsx
+msgid "The total amount of your assets denominated in USD that can be used as collateral for borrowing assets."
+msgstr "您的资产的总价值，以美元计价，可用作借款资产的抵押品。"
+
+#: src/ui-config/errorMapping.tsx
+msgid "The underlying asset cannot be rescued"
+msgstr "基础资产无法被拿出"
+
+#: src/ui-config/errorMapping.tsx
+msgid "The underlying balance needs to be greater than 0"
+msgstr "基础资产余额需要大于0"
+
+#: src/components/infoTooltips/TotalBorrowAPYTooltip.tsx
+msgid "The weighted average of APY for all borrowed assets, including incentives."
+msgstr "所有借用资产的平均加权年化收益率，包括激励。"
+
+#: src/components/infoTooltips/TotalSupplyAPYTooltip.tsx
+msgid "The weighted average of APY for all supplied assets, including incentives."
+msgstr "所有供应资产的平均加权年化收益率，包括激励。"
+
+#: src/components/transactions/Borrow/BorrowModalContent.tsx
+msgid "There are not enough funds in the{0}reserve to borrow"
+msgstr "{0}储备中没有足够的资金可供借用"
+
+#: src/ui-config/errorMapping.tsx
+msgid "There is not enough collateral to cover a new borrow"
+msgstr "没有足够的抵押品来覆盖新的借款"
+
+#: src/components/transactions/DebtSwitch/DebtSwitchModalContent.tsx
+msgid "There is not enough liquidity for the target asset to perform the switch. Try lowering the amount."
+msgstr "目标资产的流动性不足以执行切换。尝试降低金额。"
+
+#: src/components/transactions/FlowCommons/GasEstimationError.tsx
+msgid "There was some error. Please try changing the parameters or <0><1>copy the error</1></0>"
+msgstr "发生了一些错误。请尝试更改参数或<0><1>复制错误</1></0>"
+
+#: src/modules/markets/MarketAssetsListContainer.tsx
+msgid "These assets are temporarily frozen or paused by ZeroLend community decisions, meaning that further supply / borrow, or rate swap of these assets are unavailable. Withdrawals and debt repayments are allowed. Follow the <0>ZeroLend governance forum</0> for further updates."
+msgstr "根据 ZeroLend 社区的决定，这些资产将被暂时冻结或暂停，这意味着这些资产的进一步供应/借贷或利率互换将不可用。允许提款和还债。请关注<0>ZeroLend 管理论坛</0>，了解进一步更新。"
+
+#: src/components/transactions/Withdraw/WithdrawModalContent.tsx
+msgid "These funds have been borrowed and are not available for withdrawal at this time."
+msgstr "这些资金已被借用，目前不可提取。"
+
+#: src/modules/migration/MigrationBottomPanel.tsx
+msgid "This action will reduce V2 health factor below liquidation threshold. retain collateral or migrate borrow position to continue."
+msgstr "此操作将降低V2健康系数低于清算阈值。保留抵押品或迁移借款位置以继续。"
+
+#: src/modules/migration/MigrationBottomPanel.tsx
+msgid "This action will reduce health factor of V3 below liquidation threshold. Increase migrated collateral or reduce migrated borrow to continue."
+msgstr "此操作将降低V3的健康系数低于清算阈值。增加已迁移的抵押品或减少已迁移的借款以继续。"
+
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+msgid "This action will reduce your health factor. Please be mindful of the increased risk of collateral liquidation."
+msgstr "此操作将降低您的健康系数。请注意抵押品清算风险的增加。"
+
+#: src/components/AddressBlockedModal.tsx
+msgid "This address is blocked on app.zerolend.xyz because it is associated with one or more"
+msgstr "此地址已在app.zerolend.xyz上被封锁，因为它与一个或多个"
+
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "This asset can only be used as collateral in isolation mode only."
+msgstr "该资产只能在隔离模式下用作抵押品。"
+
+#: src/components/caps/CapsTooltip.tsx
+msgid "This asset has almost reached its borrow cap. There is only {messageValue} available to be borrowed from this market."
+msgstr "该资产几乎已达到其借款上限。从这个市场上可以借出的金额仅为{messageValue}。"
+
+#: src/components/caps/CapsTooltip.tsx
+msgid "This asset has almost reached its supply cap. There can only be {messageValue} supplied to this market."
+msgstr "该资产几乎已达到其供应上限。在这个市场上只能供应{messageValue}。"
+
+#: src/components/caps/CapsTooltip.tsx
+msgid "This asset has reached its borrow cap. Nothing is available to be borrowed from this market."
+msgstr "此资产已达到其借款上限。从这个市场上不能再借到任何东西。"
+
+#: src/components/caps/CapsTooltip.tsx
+msgid "This asset has reached its supply cap. Nothing is available to be supplied from this market."
+msgstr "此资产已达到其供应上限。从这个市场上不能再供应任何东西。"
+
+#: src/components/infoTooltips/FrozenTooltip.tsx
+msgid "This asset is frozen due to an ZeroLend Protocol Governance decision. <0>More details</0>"
+msgstr "该资产因 ZeroLend 协议管理决定而被冻结。<0>更多详情</0"
+
+#: src/components/infoTooltips/RenFILToolTip.tsx
+msgid "This asset is frozen due to an ZeroLend Protocol Governance decision. On the 20th of December 2022, renFIL will no longer be supported and cannot be bridged back to its native network. It is recommended to withdraw supply positions and repay borrow positions so that renFIL can be bridged back to FIL before the deadline. After this date, it will no longer be possible to convert renFIL to FIL. <0>More details</0>"
+msgstr "该资产因 ZeroLend 协议管理决策而被冻结。到 2022 年 12 月 20 日，renFIL 将不再受支持，无法连接回其本地网络。建议撤销供应头寸并偿还借款头寸，以便在截止日期前将 renFIL 连接回 FIL。在此日期之后，将不再可能将 renFIL 转换为 FIL。<0>更多详情</0"
+
+#: src/components/Warnings/BUSDOffBoardingWarning.tsx
+msgid "This asset is planned to be offboarded due to an ZeroLend Protocol Governance decision. <0>More details</0>"
+msgstr "根据 ZeroLend 协议管理决策，该资产计划退出。<0>更多详情</0"
+
+#: src/components/infoTooltips/GasTooltip.tsx
+msgid "This gas calculation is only an estimation. Your wallet will set the price of the transaction. You can modify the gas settings directly from your wallet provider."
+msgstr "此矿工费的计算仅为估计值。您的钱包将设置交易的价格。您可以直接从钱包提供程序处修改矿工费的设置。"
+
+#: src/components/HALLink.tsx
+msgid "This integration was<0>proposed and approved</0>by the community."
+msgstr "这一集成是由社区<0>提出并批准</0>的。"
+
+#: src/modules/reserve-overview/ReserveConfiguration.tsx
+msgid "This is a Liquidity Pool (LP) Token."
+msgstr "这是一种流动性池 (LP) 代币。"
+
+#: src/components/infoTooltips/AvailableTooltip.tsx
+msgid "This is the total amount available for you to borrow. You can borrow based on your collateral and until the borrow cap is reached."
+msgstr "这是您可以借用的总金额。您可以根据抵押品借款，直到达到借款上限为止。"
+
+#: src/components/infoTooltips/AvailableTooltip.tsx
+msgid "This is the total amount that you are able to supply to in this reserve. You are able to supply your wallet balance up until the supply cap is reached."
+msgstr "这是您可以供应给该储备的总金额。您可以提供您的钱包余额，直到达到供应上限。"
+
+#: src/components/infoTooltips/LiquidationThresholdTooltip.tsx
+msgid "This represents the threshold at which a borrow position will be considered undercollateralized and subject to liquidation for each collateral. For example, if a collateral has a liquidation threshold of 80%, it means that the position will be liquidated when the debt value is worth 80% of the collateral value."
+msgstr "这表示每个抵押品的清算阈值，其中的借款头寸将被视为不足抵押并受清算的门槛。例如，如果一个抵押品的清算阈值为80％，这意味着当债务价值达到抵押品价值的80％时，该头寸将被清算。"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "Time left to be able to withdraw your staked asset."
+msgstr "还有多少时间可以提取您质押的资产。"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "Time left to unstake"
+msgstr "还有多少时间可以解押"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "Time left until the withdrawal window closes."
+msgstr "提取窗口关闭前的剩余时间。"
+
+#: src/components/transactions/Warnings/ParaswapErrorDisplay.tsx
+msgid "Tip: Try increasing slippage or reduce input amount"
+msgstr "提示：尝试增加滑点或减小输入金额"
+
+#: src/hooks/useReserveActionState.tsx
+#: src/modules/dashboard/lists/BorrowAssetsList/BorrowAssetsList.tsx
+msgid "To borrow you need to supply any asset to be used as collateral."
+msgstr "要借款，您需要提供任何可用作抵押品的资产。"
+
+#: src/components/infoTooltips/ApprovalTooltip.tsx
+msgid "To continue, you need to grant ZeroLend smart contracts permission to move your funds from your wallet. Depending on the asset and wallet you use, it is done by signing the permission message (gas free), or by submitting an approval transaction (requires gas). <0>Learn more</0>"
+msgstr "要继续操作，您需要授予 ZeroLend 智能合约从钱包中转移资金的权限。根据您使用的资产和钱包的不同，可以通过签署许可信息（免加油）或提交批准交易（需要加油）来实现。<0>了解更多</0"
+
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+msgid "To enable E-mode for the {0} category, all borrow positions outside of this category must be closed."
+msgstr "要启用{0}类别的E模式，必须关闭该类别之外的所有借款头寸。"
+
+#: src/ui-config/errorMapping.tsx
+msgid "To repay on behalf of a user an explicit amount to repay is needed"
+msgstr "要代表用户还款，需要明确指定还款金额"
+
+#: src/components/transactions/FlowCommons/PermissionView.tsx
+msgid "To request access for this permissioned market, please visit: <0>Acces Provider Name</0>"
+msgstr "要请求访问此经许可的市场，请访问：<0>Acces Provider Name</0>"
+
+#: src/modules/governance/VotingPowerInfoPanel.tsx
+msgid "To submit a proposal for minor changes to the protocol, you'll need at least 80.00K power. If you want to change the core code base, you'll need 320k power.<0>Learn more.</0>"
+msgstr "要提交有关协议的次要更改提案，您需要至少80.00K的能量。如果要更改核心代码库，您需要320k的能量。<0>了解更多。</0>"
+
+#: src/modules/governance/proposal/VotersListContainer.tsx
+msgid "Top 10 addresses"
+msgstr "前10个地址"
+
+#: src/modules/markets/MarketsTopPanel.tsx
+msgid "Total available"
+msgstr "总可用"
+
+#: src/modules/markets/Gho/GhoBanner.tsx
+#: src/modules/markets/MarketAssetsList.tsx
+#: src/modules/markets/MarketAssetsListMobileItem.tsx
+#: src/modules/reserve-overview/BorrowInfo.tsx
+#: src/modules/reserve-overview/BorrowInfo.tsx
+#: src/modules/reserve-overview/Gho/GhoBorrowInfo.tsx
+#: src/modules/reserve-overview/Gho/GhoBorrowInfo.tsx
+#: src/modules/reserve-overview/Gho/GhoReserveTopDetails.tsx
+msgid "Total borrowed"
+msgstr "总借出"
+
+#: src/modules/markets/MarketsTopPanel.tsx
+msgid "Total borrows"
+msgstr "总借款"
+
+#: src/modules/staking/StakingHeader.tsx
+msgid "Total emission per day"
+msgstr "每天总排放"
+
+#: src/modules/reserve-overview/Gho/GhoInterestRateGraph.tsx
+msgid "Total interest accrued"
+msgstr "总计已计息"
+
+#: src/modules/markets/MarketsTopPanel.tsx
+msgid "Total market size"
+msgstr "总市场规模"
+
+#: src/modules/markets/MarketAssetsList.tsx
+#: src/modules/markets/MarketAssetsListMobileItem.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "Total supplied"
+msgstr "总供应"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Total voting power"
+msgstr "总投票权"
+
+#: src/components/transactions/ClaimRewards/ClaimRewardsModalContent.tsx
+msgid "Total worth"
+msgstr "总价值"
+
+#: src/components/WalletConnection/WalletSelector.tsx
+msgid "Track wallet"
+msgstr "跟踪钱包"
+
+#: src/components/WalletConnection/WalletSelector.tsx
+msgid "Track wallet balance in read-only mode"
+msgstr "以只读模式跟踪钱包余额"
+
+#: src/components/transactions/FlowCommons/Error.tsx
+msgid "Transaction failed"
+msgstr "交易失败"
+
+#: src/layouts/WalletWidget.tsx
+#: src/modules/history/HistoryTopPanel.tsx
+msgid "Transaction history"
+msgstr "交易历史"
+
+#: src/modules/history/HistoryWrapper.tsx
+msgid "Transaction history is not currently available for this market"
+msgstr "当前市场不提供交易历史记录"
+
+#: src/components/transactions/FlowCommons/TxModalDetails.tsx
+msgid "Transaction overview"
+msgstr "交易概述"
+
+#: src/modules/history/HistoryWrapper.tsx
+#: src/modules/history/HistoryWrapperMobile.tsx
+msgid "Transactions"
+msgstr "交易"
+
+#: src/components/transactions/UnStake/UnStakeActions.tsx
+msgid "UNSTAKE {symbol}"
+msgstr "解除抵押 {symbol}"
+
+#: src/components/isolationMode/IsolatedBadge.tsx
+#: src/components/isolationMode/IsolatedBadge.tsx
+#: src/components/transactions/FlowCommons/TxModalDetails.tsx
+msgid "Unavailable"
+msgstr "不可用"
+
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "Unbacked"
+msgstr "未支持"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Unbacked mint cap is exceeded"
+msgstr "未支持的铸币上限已超出"
+
+#: src/components/infoTooltips/MigrationDisabledTooltip.tsx
+msgid "Underlying asset does not exist in {marketName} v3 Market, hence this position cannot be migrated."
+msgstr "基础资产在{marketName} v3市场中不存在，因此无法迁移此头寸。"
+
+#: src/modules/reserve-overview/AddTokenDropdown.tsx
+#: src/modules/reserve-overview/TokenLinkDropdown.tsx
+msgid "Underlying token"
+msgstr "基础代币"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "Unstake now"
+msgstr "立即解除抵押"
+
+#: src/components/transactions/StakeCooldown/StakeCooldownModalContent.tsx
+msgid "Unstake window"
+msgstr "解除抵押窗口"
+
+#: src/components/transactions/UnStake/UnStakeModalContent.tsx
+msgid "Unstaked"
+msgstr "已解押"
+
+#: src/components/transactions/UnStake/UnStakeActions.tsx
+msgid "Unstaking {symbol}"
+msgstr "解除抵押 {symbol}"
+
+#: src/components/transactions/Warnings/MarketWarning.tsx
+msgid "Update: Disruptions reported for WETH, WBTC, WMATIC, and USDT. AIP 230 will resolve the disruptions and the market will be operating as normal on ~26th May 13h00 UTC."
+msgstr "更新：WETH、WBTC、WMATIC和USDT存在故障。AIP 230将解决这些故障，市场将在约5月26日13:00 UTC正常运行。"
+
+#: src/modules/governance/VotingPowerInfoPanel.tsx
+msgid "Use it to vote for or against active proposals."
+msgstr "用于投票支持或反对活跃提案。"
+
+#: src/modules/governance/DelegatedInfoPanel.tsx
+msgid "Use your ZERO and stkZERO balance to delegate your voting and proposition powers. You will not be sending any tokens, only the rights to vote and propose changes to the protocol. You can re-delegate or revoke power to self at any time."
+msgstr ""
+
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsListMobileItem.tsx
+msgid "Used as collateral"
+msgstr "作为抵押物使用"
+
+#: src/ui-config/errorMapping.tsx
+msgid "User cannot withdraw more than the available balance"
+msgstr "用户不能提取超过可用余额的资金"
+
+#: src/ui-config/errorMapping.tsx
+msgid "User did not borrow the specified currency"
+msgstr "用户未借入指定货币"
+
+#: src/ui-config/errorMapping.tsx
+msgid "User does not have outstanding stable rate debt on this reserve"
+msgstr "用户在此储备上没有未偿还的固定利率债务"
+
+#: src/ui-config/errorMapping.tsx
+msgid "User does not have outstanding variable rate debt on this reserve"
+msgstr "用户在此储备上没有未偿还的浮动利率债务"
+
+#: src/ui-config/errorMapping.tsx
+msgid "User is in isolation mode"
+msgstr "用户处于隔离模式"
+
+#: src/ui-config/errorMapping.tsx
+msgid "User is trying to borrow multiple assets including a siloed one"
+msgstr "用户试图借入多个资产，包括隔离的资产"
+
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+msgid "Users who provide liquidity will get special roles (Shrimp/Shark/Whale) in our discord that give you access to exclusive channels. Visit <0>Guild.xyz</0> to learn more."
+msgstr "提供流动资金的用户将在我们的 discord 中获得特殊角色（虾/鲨鱼/鲸鱼），让您可以进入专属频道。请访问 <0>Guild.xyz</0> 了解更多信息。"
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+msgid "Users who stake ZERO in Safety Module (i.e. stkZERO holders) receive a discount on GHO borrow interest rate. The discount applies to 100 GHO for every 1 stkZERO held. Use the calculator below to see GHO borrow rate with the discount applied."
+msgstr ""
+
+#: src/modules/reserve-overview/ReserveConfiguration.tsx
+#: src/modules/reserve-overview/ReserveTopDetails.tsx
+#: src/modules/reserve-overview/graphs/InterestRateModelGraph.tsx
+msgid "Utilization Rate"
+msgstr "利用率"
+
+#: src/modules/history/TransactionMobileRowItem.tsx
+msgid "VIEW TX"
+msgstr "查看交易"
+
+#: src/components/transactions/GovVote/GovVoteActions.tsx
+#: src/components/transactions/GovVote/GovVoteActions.tsx
+msgid "VOTE NAY"
+msgstr "反对投票"
+
+#: src/components/transactions/GovVote/GovVoteActions.tsx
+#: src/components/transactions/GovVote/GovVoteActions.tsx
+msgid "VOTE YAE"
+msgstr "支持投票"
+
+#: src/components/transactions/Borrow/BorrowModalContent.tsx
+#: src/components/transactions/Borrow/GhoBorrowModalContent.tsx
+#: src/components/transactions/DebtSwitch/DebtSwitchModalDetails.tsx
+#: src/components/transactions/RateSwitch/RateSwitchModalContent.tsx
+#: src/modules/history/actions/BorrowRateModeBlock.tsx
+msgid "Variable"
+msgstr "变动"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Variable debt supply is not zero"
+msgstr "变动债务供应不为零"
+
+#: src/components/infoTooltips/VariableAPYTooltip.tsx
+msgid "Variable interest rate will <0>fluctuate</0> based on the market conditions. Recommended for short-term positions."
+msgstr "变动利率将根据市场条件<0>波动</0>。建议用于短期头寸。"
+
+#: src/modules/rewards/Vesting.tsx
+msgid "Vesting"
+msgstr "既得"
+
+#: src/modules/history/TransactionRowItem.tsx
+msgid "View"
+msgstr "查看"
+
+#: src/modules/governance/proposal/VotersListContainer.tsx
+msgid "View all votes"
+msgstr "查看所有投票"
+
+#: src/modules/dashboard/DashboardTopPanel.tsx
+msgid "View all your positions, deposit/withdraw assets in this dashboard."
+msgstr "在此仪表板中查看您的所有仓位、存入/提取资产。"
+
+#: src/modules/reserve-overview/ReserveFactorOverview.tsx
+msgid "View contract"
+msgstr "查看合同"
+
+#: src/modules/markets/Gho/GhoBanner.tsx
+#: src/modules/markets/MarketAssetsListMobileItem.tsx
+msgid "View details"
+msgstr "查看详细信息"
+
+#: src/layouts/WalletWidget.tsx
+msgid "View on Explorer"
+msgstr "在浏览器上查看"
+
+#: src/modules/governance/proposal/VoteInfo.tsx
+msgid "Vote NAY"
+msgstr "反对投票"
+
+#: src/modules/governance/proposal/VoteInfo.tsx
+msgid "Vote YAE"
+msgstr "支持投票"
+
+#: src/modules/governance/proposal/VotersListModal.tsx
+msgid "Voted NAY"
+msgstr "投票反对"
+
+#: src/modules/governance/proposal/VotersListModal.tsx
+msgid "Voted YAE"
+msgstr "投票支持"
+
+#: src/modules/governance/proposal/VotersListContainer.tsx
+#: src/modules/governance/proposal/VotersListContainer.tsx
+#: src/modules/governance/proposal/VotersListContainer.tsx
+#: src/modules/governance/proposal/VotersListModal.tsx
+#: src/modules/governance/proposal/VotersListModal.tsx
+#: src/modules/governance/proposal/VotersListModal.tsx
+msgid "Votes"
+msgstr "投票"
+
+#: src/components/transactions/GovDelegation/DelegationTypeSelector.tsx
+msgid "Voting"
+msgstr "投票中"
+
+#: src/components/transactions/GovVote/GovVoteModalContent.tsx
+#: src/modules/governance/proposal/VoteInfo.tsx
+msgid "Voting power"
+msgstr "投票权"
+
+#: pages/governance/proposal/[proposalId].governance.tsx
+msgid "Voting results"
+msgstr "投票结果"
+
+#: src/modules/rewards/WalletBalance.tsx
+#: src/modules/staking/StakingPanel.tsx
+msgid "Wallet Balance"
+msgstr "钱包余额"
+
+#: src/components/transactions/Repay/RepayModalContent.tsx
+#: src/components/transactions/Repay/RepayTypeSelector.tsx
+#: src/components/transactions/Stake/StakeModalContent.tsx
+#: src/components/transactions/Supply/SupplyModalContent.tsx
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsList.tsx
+#: src/modules/faucet/FaucetAssetsList.tsx
+msgid "Wallet balance"
+msgstr "钱包余额"
+
+#: src/components/WalletConnection/WalletSelector.tsx
+msgid "Wallet not detected. Connect or install wallet and retry"
+msgstr "未检测到钱包。连接或安装钱包后重试"
+
+#: src/components/WalletConnection/WalletSelector.tsx
+msgid "Wallets are provided by External Providers and by selecting you agree to Terms of those Providers. Your access to the wallet might be reliant on the External Provider being operational."
+msgstr "钱包由外部提供者提供，通过选择您同意这些提供者的条款。您访问钱包可能依赖于外部提供者的运营情况。"
+
+#: src/modules/markets/MarketAssetsListContainer.tsx
+msgid "We couldn't find any assets related to your search. Try again with a different asset name, symbol, or address."
+msgstr "我们找不到与您搜索相关的任何资产。尝试使用不同的资产名称、符号或地址再次搜索。"
+
+#: src/modules/history/HistoryWrapper.tsx
+#: src/modules/history/HistoryWrapperMobile.tsx
+msgid "We couldn't find any transactions related to your search. Try again with a different asset name, or reset filters."
+msgstr "我们找不到与您搜索相关的任何交易。尝试使用不同的资产名称再次搜索，或重置过滤器。"
+
+#: pages/staking.staking.tsx
+msgid "We couldn’t detect a wallet. Connect a wallet to stake and view your balance."
+msgstr "我们无法检测到钱包。将钱包连接到赌金，查看余额。"
+
+#: pages/404.page.tsx
+msgid "We suggest you go back to the Dashboard."
+msgstr "建议您返回仪表板。"
+
+#: src/modules/markets/MarketsTopPanel.tsx
+msgid "Welcome to ZeroLend 🚀"
+msgstr "欢迎访问 ZeroLend 🚀"
+
+#: src/components/infoTooltips/LiquidationPenaltyTooltip.tsx
+msgid "When a liquidation occurs, liquidators repay up to 50% of the outstanding borrowed amount on behalf of the borrower. In return, they can buy the collateral at a discount and keep the difference (liquidation penalty) as a bonus."
+msgstr "当发生清算时，清算人代表借款人偿还未偿还金额的50%。作为回报，他们可以以折扣价购买抵押品，并将差额（清算罚金）作为奖金。"
+
+#: src/modules/governance/proposal/VoteInfo.tsx
+msgid "With a voting power of <0/>"
+msgstr "拥有<0/>的投票权"
+
+#: src/modules/faucet/FaucetTopPanel.tsx
+msgid "With testnet Faucet you can get free assets to test the ZeroLend Protocol. Make sure to switch your wallet provider to the appropriate testnet network, select desired asset, and click ‘Faucet’ to get tokens transferred to your wallet. The assets on a testnet are not “real,” meaning they have no monetary value. <0>Learn more</0>"
+msgstr "通过 testnet Faucet，您可以获得免费资产来测试 ZeroLend 协议。请确保将您的钱包提供商切换到相应的测试网络，选择所需的资产，然后点击 \"Faucet \"将代币转入您的钱包。测试网络上的资产不是 \"真实的\"，这意味着它们没有货币价值。<0>了解更多</0"
+
+#: src/components/transactions/Withdraw/WithdrawModal.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsListItem.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsListMobileItem.tsx
+#: src/modules/history/HistoryFilterMenu.tsx
+#: src/modules/history/actions/ActionDetails.tsx
+msgid "Withdraw"
+msgstr "提取"
+
+#: src/components/transactions/Withdraw/WithdrawActions.tsx
+msgid "Withdraw {symbol}"
+msgstr "提取{symbol}"
+
+#: src/components/transactions/Withdraw/WithdrawModalContent.tsx
+msgid "Withdrawing this amount will reduce your health factor and increase risk of liquidation."
+msgstr "提取此金额将降低您的健康系数并增加清算风险。"
+
+#: src/components/transactions/Withdraw/WithdrawActions.tsx
+msgid "Withdrawing {symbol}"
+msgstr "提取{symbol}"
+
+#: src/components/transactions/DelegationTxsWrapper.tsx
+#: src/components/transactions/TxActionsWrapper.tsx
+msgid "Wrong Network"
+msgstr "错误的网络"
+
+#: src/modules/governance/VoteBar.tsx
+msgid "YAE"
+msgstr "支持"
+
+#: src/components/transactions/Warnings/IsolationModeWarning.tsx
+msgid "You are entering Isolation mode"
+msgstr "您正在进入隔离模式"
+
+#: src/components/transactions/Borrow/BorrowModalContent.tsx
+#: src/components/transactions/Borrow/GhoBorrowModalContent.tsx
+msgid "You can borrow this asset with a stable rate only if you borrow more than the amount you are supplying as collateral."
+msgstr "只有在您借出的资产金额超过您提供的抵押物金额时，您才能以稳定的利率借出该资产。"
+
+#: src/components/transactions/RateSwitch/RateSwitchModalContent.tsx
+msgid "You can not change Interest Type to stable as your borrowings are higher than your collateral"
+msgstr "由于您的借款金额高于抵押物金额，您无法将利息类型更改为稳定。"
+
+#: src/components/transactions/Emode/EmodeModalContent.tsx
+msgid "You can not disable E-Mode as your current collateralization level is above 80%, disabling E-Mode can cause liquidation. To exit E-Mode supply or repay borrowed positions."
+msgstr "您不能关闭 E-Mode，因为您当前的抵押率超过 80%，关闭 E-Mode 可能会导致清算。要退出 E-Mode，请提供或偿还已借出的头寸。"
+
+#: src/components/transactions/CollateralChange/CollateralChangeModalContent.tsx
+msgid "You can not switch usage as collateral mode for this currency, because it will cause collateral call"
+msgstr "您不能将此货币的用途切换为抵押物，因为这将导致抵押物调用。"
+
+#: src/components/transactions/CollateralChange/CollateralChangeModalContent.tsx
+msgid "You can not use this currency as collateral"
+msgstr "您不能使用此货币作为抵押物。"
+
+#: src/components/transactions/Withdraw/WithdrawModalContent.tsx
+msgid "You can not withdraw this amount because it will cause collateral call"
+msgstr "您不能提取此金额，因为这将导致抵押物调用。"
+
+#: src/components/transactions/DebtSwitch/DebtSwitchModalDetails.tsx
+msgid "You can only switch to tokens with variable APY types. After this transaction, you may change the variable rate to a stable one if available."
+msgstr "您只能切换到具有可变 年收益率 类型的代币。在此交易后，如果可用，您可以将可变利率更改为稳定利率。"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "You can only withdraw your assets from the Security Module after the cooldown period ends and the unstake window is active."
+msgstr "只有在冷却期结束并处于解锁窗口激活状态后，您才能从安全模块中提取您的资产。"
+
+#: src/components/transactions/FlowCommons/Error.tsx
+msgid "You can report incident to our <0>Discord</0> or <1>Github</1>."
+msgstr "您可以向我们的 <0>Discord</0> 或 <1>Github</1> 报告事件。"
+
+#: src/ui-config/errorMapping.tsx
+msgid "You cancelled the transaction."
+msgstr "您已取消交易。"
+
+#: src/modules/governance/proposal/VoteInfo.tsx
+msgid "You did not participate in this proposal"
+msgstr "您未参与此提案"
+
+#: src/components/transactions/CollateralChange/CollateralChangeModalContent.tsx
+msgid "You do not have supplies in this currency"
+msgstr "您在此货币中没有供应"
+
+#: src/components/transactions/Repay/RepayModalContent.tsx
+msgid "You don’t have enough funds in your wallet to repay the full amount. If you proceed to repay with your current amount of funds, you will still have a small borrowing position in your dashboard."
+msgstr "您钱包中的资金不足以偿还全额。如果您用现有资金还款，您的仪表盘中仍会有小额借款头寸。"
+
+#: src/modules/governance/DelegatedInfoPanel.tsx
+msgid "You have no ZERO/stkZERO balance to delegate."
+msgstr ""
+
+#: src/components/transactions/RateSwitch/RateSwitchModalContent.tsx
+msgid "You have not borrow yet using this currency"
+msgstr "您还没有使用此货币借款"
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+msgid "You may borrow up to <0/> GHO at <1/> (max discount)"
+msgstr "您最多可以借入 <0/> GHO，以 <1/>（最大折扣）的利率"
+
+#: src/modules/reserve-overview/Gho/CalculatorInput.tsx
+msgid "You may enter a custom amount in the field."
+msgstr "您可以在字段中输入自定义金额。"
+
+#: src/components/transactions/FlowCommons/Success.tsx
+msgid "You now have special access to our Discord for providing liquidity! Join our guild page to get these special roles."
+msgstr "您现在可以进入我们的 Discord 提供流动资金！加入我们的公会页面，获取这些特殊角色。"
+
+#: src/components/transactions/FlowCommons/Success.tsx
+msgid "You switched to {0} rate"
+msgstr "您已切换到 {0} 利率"
+
+#: src/components/transactions/StakeCooldown/StakeCooldownModalContent.tsx
+msgid "You unstake here"
+msgstr "您在此解押"
+
+#: src/modules/governance/proposal/VoteInfo.tsx
+msgid "You voted {0}"
+msgstr "您投票 {0}"
+
+#: src/components/transactions/CollateralChange/CollateralChangeModalContent.tsx
+msgid "You will exit isolation mode and other tokens can now be used as collateral"
+msgstr "您将退出隔离模式，其他代币现在可以用作抵押物"
+
+#: src/components/infoTooltips/GaslessTooltip.tsx
+msgid "You wont be charged any gas fees."
+msgstr "您不会被收取任何汽油费。"
+
+#: src/components/transactions/Borrow/GhoBorrowSuccessView.tsx
+#: src/components/transactions/FlowCommons/Success.tsx
+msgid "You {action} <0/> {symbol}"
+msgstr "您 {action} <0/> {symbol}"
+
+#: src/components/transactions/DebtSwitch/DebtSwitchModalContent.tsx
+msgid "You've successfully switched borrow position."
+msgstr "您已成功切换借款头寸。"
+
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsList.tsx
+#: src/modules/dashboard/lists/BorrowedPositionsList/BorrowedPositionsList.tsx
+msgid "Your borrows"
+msgstr "您的借款"
+
+#: src/modules/dashboard/LiquidationRiskParametresModal/LiquidationRiskParametresModal.tsx
+msgid "Your current loan to value based on your collateral supplied."
+msgstr "根据您提供的抵押物，您当前的贷款价值。"
+
+#: src/modules/dashboard/LiquidationRiskParametresModal/LiquidationRiskParametresModal.tsx
+msgid "Your health factor and loan to value determine the assurance of your collateral. To avoid liquidations you can supply more collateral or repay borrow positions."
+msgstr "您的健康因子和贷款价值决定了您的抵押物的保障程度。为了避免清算，您可以提供更多抵押物或偿还借款头寸。"
+
+#: pages/governance/index.governance.tsx
+#: pages/reserve-overview.page.tsx
+#: src/modules/governance/UserGovernanceInfo.tsx
+#: src/modules/governance/VotingPowerInfoPanel.tsx
+#: src/modules/reserve-overview/ReserveActions.tsx
+#: src/modules/reserve-overview/ReserveActions.tsx
+msgid "Your info"
+msgstr "您的信息"
+
+#: src/modules/governance/VotingPowerInfoPanel.tsx
+msgid "Your proposition power is based on your ZERO/stkZERO balance and received delegations."
+msgstr ""
+
+#: src/components/transactions/ClaimRewards/ClaimRewardsModalContent.tsx
+msgid "Your reward balance is 0"
+msgstr "您的奖励余额为 0"
+
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+#: src/modules/dashboard/lists/SuppliedPositionsList/SuppliedPositionsList.tsx
+msgid "Your supplies"
+msgstr "您的供应"
+
+#: src/modules/governance/proposal/VoteInfo.tsx
+msgid "Your voting info"
+msgstr "您的投票信息"
+
+#: src/modules/governance/VotingPowerInfoPanel.tsx
+msgid "Your voting power is based on your ZERO/stkZERO balance and received delegations."
+msgstr ""
+
+#: src/modules/dashboard/lists/SupplyAssetsList/WalletEmptyInfo.tsx
+msgid "Your {name} wallet is empty. Purchase or transfer assets or use <0>{0}</0> to transfer your {network} assets."
+msgstr "您的 {name} 钱包为空。购买或转移资产，或使用 <0>{0}</0> 转移您的 {network} 资产。"
+
+#: src/modules/dashboard/lists/SupplyAssetsList/WalletEmptyInfo.tsx
+msgid "Your {name} wallet is empty. Purchase or transfer assets."
+msgstr "您的 {name} 钱包为空。购买或转移资产。"
+
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsList.tsx
+msgid "Your {networkName} wallet is empty. Get free test assets at"
+msgstr "您的 {networkName} 钱包为空。在以下网址获取免费测试资产"
+
+#: src/hooks/useReserveActionState.tsx
+msgid "Your {networkName} wallet is empty. Get free test {0} at"
+msgstr "您的 {networkName} 钱包为空。在以下网址获取免费测试 {0}"
+
+#: src/modules/staking/StakingHeader.tsx
+msgid "ZERO holders (Ethereum network only) can stake their ZERO in the Safety Module to add more security to the protocol and earn Safety Incentives. In the case of a shortfall event, up to 30% of your stake can be slashed to cover the deficit, providing an additional layer of protection for the protocol."
+msgstr ""
+
+#: src/layouts/AppMiniBanner.tsx
+#: src/layouts/AppMiniBanner.tsx
+#: src/layouts/AppMiniBanner.tsx
+msgid "ZEROLEND IS AUDITED BY MUNDUS SECURITY"
+msgstr "ZEROLEND 已通过 Mundus Security 审核"
+
+#: src/ui-config/errorMapping.tsx
+msgid "Zero address not valid"
+msgstr "零地址无效"
+
+#: src/modules/governance/GovernanceTopPanel.tsx
+msgid "ZeroLend Governance"
+msgstr "零贷款公司治理"
+
+#: src/modules/reserve-overview/TokenLinkDropdown.tsx
+msgid "ZeroLend debt token"
+msgstr "ZeroLend 债务代币"
+
+#: src/modules/governance/GovernanceTopPanel.tsx
+msgid "ZeroLend is a fully decentralized, community governed protocol by the ZERO token-holders. ZERO token-holders collectively discuss, propose, and vote on upgrades to the protocol. ZERO token-holders (Ethereum network only) can either vote themselves on new proposals or delagate to an address of choice. To learn more check out the Governance"
+msgstr ""
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "ZeroLend per month"
+msgstr "每月零贷款"
+
+#: src/modules/reserve-overview/AddTokenDropdown.tsx
+#: src/modules/reserve-overview/TokenLinkDropdown.tsx
+msgid "ZeroLend z0Token"
+msgstr "ZeroLend z0Token"
+
+#: src/modules/markets/MarketAssetsListContainer.tsx
+msgid "assets"
+msgstr "资产"
+
+#: src/components/AddressBlockedModal.tsx
+msgid "blocked activities"
+msgstr "已阻止的活动"
+
+#: src/components/transactions/FlowCommons/GasEstimationError.tsx
+msgid "copy the error"
+msgstr "复制错误"
+
+#: src/modules/history/actions/ActionDetails.tsx
+msgid "disabled"
+msgstr "已禁用"
+
+#: src/modules/governance/GovernanceTopPanel.tsx
+msgid "documentation"
+msgstr "文件"
+
+#: src/modules/history/actions/ActionDetails.tsx
+msgid "enabled"
+msgstr "已启用"
+
+#: src/modules/governance/FormattedProposalTime.tsx
+msgid "ends"
+msgstr "结束"
+
+#: src/modules/history/actions/ActionDetails.tsx
+#: src/modules/history/actions/ActionDetails.tsx
+msgid "for"
+msgstr "为"
+
+#: src/components/caps/DebtCeilingStatus.tsx
+#: src/modules/reserve-overview/BorrowInfo.tsx
+#: src/modules/reserve-overview/BorrowInfo.tsx
+#: src/modules/reserve-overview/Gho/GhoBorrowInfo.tsx
+#: src/modules/reserve-overview/Gho/GhoBorrowInfo.tsx
+#: src/modules/reserve-overview/Gho/GhoBorrowInfo.tsx
+#: src/modules/reserve-overview/Gho/GhoBorrowInfo.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "of"
+msgstr "的"
+
+#: src/modules/governance/FormattedProposalTime.tsx
+msgid "on"
+msgstr "上"
+
+#: src/components/transactions/Warnings/SNXWarning.tsx
+msgid "please check that the amount you want to supply is not currently being used for staking. If it is being used for staking, your transaction might fail."
+msgstr "请检查您要提供的金额是否正在用于质押。如果正在用于质押，您的交易可能会失败。"
+
+#: src/components/transactions/Repay/RepayModalContent.tsx
+msgid "repaid"
+msgstr "已偿还"
+
+#: src/modules/reserve-overview/SupplyInfo.tsx
+msgid "stETH supplied as collateral will continue to accrue staking rewards provided by daily rebases."
+msgstr "以stETH作为抵押品供应的将继续获得每日重新平衡提供的质押奖励。"
+
+#: src/modules/migration/StETHMigrationWarning.tsx
+msgid "stETH tokens will be migrated to Wrapped stETH using Lido Protocol wrapper which leads to supply balance change after migration: {0}"
+msgstr "stETH代币将使用Lido Protocol封套迁移到Wrapped stETH，迁移后供应余额将发生变化：{0}"
+
+#: src/components/transactions/Warnings/AAVEWarning.tsx
+msgid "staking view"
+msgstr "质押视图"
+
+#: src/modules/governance/FormattedProposalTime.tsx
+msgid "starts"
+msgstr "开始"
+
+#: src/modules/staking/GhoDiscountProgram.tsx
+msgid "stkZERO holders get a discount on ONEZ borrow rate"
+msgstr ""
+
+#: src/modules/reserve-overview/Gho/GhoDiscountCalculator.tsx
+msgid "to"
+msgstr "至"
+
+#: src/components/transactions/Warnings/AAVEWarning.tsx
+msgid "tokens is not the same as staking them. If you wish to stake your"
+msgstr "代币与质押并不相同。如果您希望质押您的"
+
+#: src/components/transactions/Warnings/AAVEWarning.tsx
+msgid "tokens, please go to the"
+msgstr "代币，请转到"
+
+#: src/components/transactions/Faucet/CaptchaFaucetModalContent.tsx
+msgid "will receive"
+msgstr "将收到"
+
+#: src/components/transactions/Withdraw/WithdrawModalContent.tsx
+msgid "withdrew"
+msgstr "撤回"
+
+#: src/components/MarketSwitcher.tsx
+#: src/components/transactions/DelegationTxsWrapper.tsx
+#: src/components/transactions/DelegationTxsWrapper.tsx
+#: src/components/transactions/DelegationTxsWrapper.tsx
+#: src/components/transactions/DelegationTxsWrapper.tsx
+#: src/components/transactions/DelegationTxsWrapper.tsx
+#: src/components/transactions/FlowCommons/ApprovalMethodToggleButton.tsx
+#: src/components/transactions/FlowCommons/ApprovalMethodToggleButton.tsx
+#: src/components/transactions/GovDelegation/GovDelegationModalContent.tsx
+#: src/components/transactions/GovDelegation/GovDelegationModalContent.tsx
+#: src/components/transactions/StakeCooldown/StakeCooldownModalContent.tsx
+#: src/components/transactions/StakeCooldown/StakeCooldownModalContent.tsx
+#: src/modules/dashboard/DashboardEModeButton.tsx
+#: src/modules/reserve-overview/ReserveTopDetailsWrapper.tsx
+#: src/modules/staking/GhoDiscountProgram.tsx
+msgid "{0}"
+msgstr "{0}"
+
+#: src/components/transactions/ClaimRewards/ClaimRewardsModalContent.tsx
+msgid "{0} Balance"
+msgstr "{0} 余额"
+
+#: src/components/FaucetButton.tsx
+#: src/modules/faucet/FaucetTopPanel.tsx
+msgid "{0} Faucet"
+msgstr "{0} 水龙头"
+
+#: src/modules/staking/BuyWithFiatModal.tsx
+msgid "{0} on-ramp service is provided by External Provider and by selecting you agree to Terms of the Provider. Your access to the service might be reliant on the External Provider being operational."
+msgstr "{0} 充值服务由外部提供商提供，并选择此选项即表示您同意提供商的条款。您对该服务的访问可能依赖于外部提供商是否正常运行。"
+
+#: src/modules/staking/BuyWithFiatModal.tsx
+msgid "{0}{name}"
+msgstr "{0}{name}"
+
+#: src/components/transactions/FlowCommons/ApprovalMethodToggleButton.tsx
+msgid "{currentMethod}"
+msgstr "{currentMethod}"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "{d}d"
+msgstr "{d}d"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "{h}h"
+msgstr "{h}h"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "{m}m"
+msgstr "{m}m"
+
+#: src/hooks/useReserveActionState.tsx
+#: src/modules/dashboard/lists/SupplyAssetsList/SupplyAssetsList.tsx
+msgid "{networkName} Faucet"
+msgstr "{networkName} 水龙头"
+
+#: src/layouts/TopBarNotify.tsx
+msgid "{notifyText}"
+msgstr "{notifyText}"
+
+#: src/modules/migration/MigrationMobileList.tsx
+msgid "{numSelected}/{numAvailable} assets selected"
+msgstr "已选择 {numSelected}/{numAvailable} 种资产"
+
+#: src/modules/staking/StakingPanel.tsx
+msgid "{s}s"
+msgstr "{s}s"
+
+#: src/modules/governance/DelegatedInfoPanel.tsx
+#: src/modules/reserve-overview/Gho/CalculatorInput.tsx
+msgid "{title}"
+msgstr "{title}"
+
+#: src/components/CircleIcon.tsx
+msgid "{tooltipText}"
+msgstr "{tooltipText}"

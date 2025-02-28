@@ -1,0 +1,44 @@
+# .github/workflows/build-and-deploy.yml
+
+name: Deploy Production
+
+on:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+jobs:
+  build_prod:
+    concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
+    runs-on: ubuntu-latest
+
+    steps:
+      # https://github.com/actions/checkout
+      - uses: actions/checkout@v3
+
+      # a standard step for GitHub actions on Node
+      # https://github.com/actions/setup-node
+      - uses: actions/setup-node@v3
+        with:
+          # update the Node version to meet your needs
+          node-version: 18
+          cache: npm
+
+      - name: Build
+        run: |
+          yarn
+          NEXT_PUBLIC_WALLET_CONNECT_PROJECT_ID=9f8cf941224ba28f02be7c7dd755c78b NEXT_PUBLIC_GA_MEASUREMENT_ID=G-4BXYGRCH1M NEXT_PUBLIC_MIXPANEL=56a73cd233d8c404b823d000f9a807c3 NEXT_PUBLIC_SENTRY=https://629466fb3bc0091f0af74dbf30bb0a76@o4505951646121984.ingest.sentry.io/4505963347312640 npm run build
+          npm run export
+          echo legacy.zerolend.xyz > ./out/CNAME
+          touch out/.nojekyll
+
+      - name: Deploy to github pages
+        # https://github.com/JamesIves/github-pages-deploy-action
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: out
+          repository-name: zerolend/legacy.zerolend.xyz
+          token: ${{ secrets.ACCESS_TOKEN }}

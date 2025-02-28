@@ -1,0 +1,82 @@
+body {
+  --wcm-z-index: 1300;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body > div:first-of-type {
+  max-width: 100vw;
+}
+
+/*
+#top-info-panel {
+  background: linear-gradient(-45deg, #030C23, #20283F, rgb(19,21,42), #2c2c2c);
+  animation: gradient 15s ease infinite;
+  background-size: 400% 400%;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+*/
+
+#gradient-canvas {
+  width: 100%;
+  height: max(40%, 420px);
+  --gradient-color-1: #030c22;
+  --gradient-color-2: #050505;
+  --gradient-color-3: #30005e;
+  --gradient-color-4: #080256;
+  z-index: -1;
+  position: absolute;
+}
+
+@media (max-width: 740px) {
+  #gradient-canvas {
+    height: 560px;
+  }
+}
+
+.preferred {
+  position: absolute;
+  transform: rotate(-90deg);
+  left: -15px;
+  font-size: 9px;
+  background: #c9b3f9;
+  padding: 1px 2px;
+  border-radius: 2px;
+}
+
+#top-bg {
+  position: absolute;
+  width: 100%;
+  height: max(40%, 420px);
+  z-index: -1;
+  filter: brightness(0.4);
+}
+
+#top-bg > img {
+  width: 100%;
+  height: max(40%, 420px);
+  object-fit: cover;
+}
+
+@media (max-width: 740px) {
+  #gradient-canvas {
+    height: 560px;
+  }
+  #top-bg {
+    height: 560px;
+  }
+  #top-bg > img {
+    height: 560px;
+  }
+}

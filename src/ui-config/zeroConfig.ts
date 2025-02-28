@@ -1,0 +1,47 @@
+export interface ZeroConfig {
+  chainId: number;
+  crossChainAddresses: {
+    [chainId: number]: {
+      VESTING_ADDRESS: string;
+      STAKING_BONUS: string;
+      OMNI_STAKING: string;
+      LOCKER_TOKEN: string;
+      ZERO_ADDRESS: string;
+      ORACLE_ADDRESS: string;
+      VESTING_UI_PROVIDER: string;
+      OMNI_STAKING_LP: string;
+      LOCKER_LP: string;
+      ETH_ZERO_PAIR: string;
+      ZAP_DLP: string;
+      LP_ORACLE_ADDRESS: string;
+    };
+  };
+  governance: {
+    POOL_VOTER: string;
+    ZERO_AIRDROP: string;
+  };
+}
+
+export const zeroConfig: ZeroConfig = {
+  chainId: 59144,
+  crossChainAddresses: {
+    [59144]: {
+      STAKING_BONUS: '0xD676c56A93Fe2a05233Ce6EAFEfDe2bd4017B3eA',
+      OMNI_STAKING: '0xf374229a18ff691406f99CCBD93e8a3f16B68888',
+      LOCKER_TOKEN: '0x08D5FEA625B1dBf9Bae0b97437303a0374ee02F8',
+      ZERO_ADDRESS: '0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7',
+      VESTING_ADDRESS: '0x9FA72ea96591e486FF065E7C8A89282dEDfA6C12',
+      ORACLE_ADDRESS: '0xBD5Ade6009666f81456cfbEFfdd01fc47572Bb88',
+      VESTING_UI_PROVIDER: '0x5A819f0932f9b5C83e710C135b024604417dBb66',
+      OMNI_STAKING_LP: '0x0374ae8e866723ADAE4A62DcE376129F292369b4',
+      LOCKER_LP: '0x8bB8B092f3f872a887F377f73719c665Dd20Ab06',
+      ETH_ZERO_PAIR: '0x0040F36784dDA0821E74BA67f86E084D70d67a3A',
+      ZAP_DLP: '0xC8f4562037eCcEfb8E96675701bAb111C90071C5',
+      LP_ORACLE_ADDRESS: '0x303598dddebB8A48CE0132b3Ba6c2fDC14986647',
+    },
+  },
+  governance: {
+    POOL_VOTER: '0x5346e9ab27D7874Db95993667D1Cb8338913f0aF',
+    ZERO_AIRDROP: '0x569982A604cA61fa425fD924ADF08BE9e4f3035f',
+  },
+};
