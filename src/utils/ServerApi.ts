@@ -73,22 +73,5 @@ export const getMerklAPR = async (): Promise<
     rewards: any[];
   }[]
 > => {
-  const response = await fetch('https://api.merkl.xyz/v4/opportunities/?name=zerolend&items=100');
-  if (!response.ok) {
-    throw new Error(`Error: ${response.status} ${response.statusText}`);
-  }
-  const data = await response.json();
-
-  const result = data
-    .filter((item: any) => item.status === 'LIVE')
-    .map((item: any) => {
-      return {
-        apr: item.apr,
-        tokens: item.tokens,
-        chainId: item.chainId,
-        rewards: item.rewardsRecord.breakdowns,
-      };
-    });
-
-  return result;
+  return [];
 };

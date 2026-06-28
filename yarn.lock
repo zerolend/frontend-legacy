@@ -15742,13 +15742,6 @@ tsparticles-particles.js@^2.12.0:
   dependencies:
     tsparticles-engine "^2.12.0"
 
-tsparticles-path-curves@^2.12.0:
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/tsparticles-path-curves/-/tsparticles-path-curves-2.12.0.tgz#633f6c99214b65142245e83782bd76e30f2ecdf4"
-  integrity sha512-+Gofof/1ciIiS9NIvh7Iu97YMu//vjUPXkTiY3XHmEbZURLf+VZ/EvWbP/iKXRZkjN5DAn+SnJNsH82fX9xXUA==
-  dependencies:
-    tsparticles-engine "^2.12.0"
-
 tsparticles-plugin-easing-quad@^2.12.0:
   version "2.12.0"
   resolved "https://registry.yarnpkg.com/tsparticles-plugin-easing-quad/-/tsparticles-plugin-easing-quad-2.12.0.tgz#8dccb2a7abb0cc4d5ab76c6bdecc267d77bb2dab"
