@@ -117,6 +117,7 @@ export const networkConfigs: Record<string, BaseNetworkConfig> = {
   [48900]: {
     name: 'Zircuit',
     publicJsonRPCUrl: [
+      'https://mainnet.zircuit.com',
       'https://zircuit1-mainnet.p2pify.com/',
       'https://zircuit-mainnet.drpc.org',
       'https://zircuit1-mainnet.liquify.com',
